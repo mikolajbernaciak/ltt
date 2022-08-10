@@ -1,5 +1,6 @@
 import { faMagnifyingGlass, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { ISearchRequestQuery } from '../../lib/interfaces';
 import styles from './navbar.module.css';
@@ -31,11 +32,11 @@ const Navbar: React.FC<INavbar> = () => {
 			<nav>
 				<div className={styles.navbar}>
 					<div className={styles.navbarLeft}>
-						<a href="/" className={styles.navbarLogo}>
+						<Link href="/" className={styles.navbarLogo}>
 							<span>
 								m<span className={styles.logoI}>i</span>kkie
 							</span>
-						</a>
+						</Link>
 						{showSearchBox && location && (
 							<div className={styles.navbarSearch}>
 								<FontAwesomeIcon icon={faMagnifyingGlass} color="black" />

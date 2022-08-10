@@ -1,6 +1,6 @@
 import { GoogleMap, Marker, useJsApiLoader } from '@react-google-maps/api';
 import { NextPage } from 'next/types';
-import { useCallback, useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import CareHomeCard from '../../components/careHomeCard/careHomeCard';
 import {
 	ICareHome,
@@ -16,9 +16,7 @@ const containerStyle = {
 };
 
 const Search: NextPage = () => {
-	const [loading, setLoading] = useState<boolean>(true);
 	const [results, setResults] = useState<ICareHome[]>([]);
-	const [map, setMap] = useState<any | null>(null);
 
 	let longitude: number;
 	let latitude: number;
@@ -49,18 +47,8 @@ const Search: NextPage = () => {
 
 	const { isLoaded } = useJsApiLoader({
 		id: 'google-map-script',
-		googleMapsApiKey: 'AIzaSyBQL8F1FTgmYQWXjvRcbiib_dGM6mIGAb8',
+		googleMapsApiKey: 'APIKEYGOESHERE',
 	});
-
-	const onLoad = useCallback(function callback(map) {
-		const bounds = new window.google.maps.LatLngBounds(center);
-		map.fitBounds(bounds);
-		setMap(map);
-	}, []);
-
-	const onUnmount = useCallback(function callback(map) {
-		setMap(null);
-	}, []);
 
 	useEffect(() => {
 		(async () => {
@@ -70,8 +58,7 @@ const Search: NextPage = () => {
 				);
 				setResults(await response.json());
 			} catch (err) {
-			} finally {
-				setLoading(false);
+				console.error(err);
 			}
 		})();
 	}, []);
@@ -109,9 +96,7 @@ const Search: NextPage = () => {
 								<GoogleMap
 									mapContainerStyle={containerStyle}
 									center={center}
-									zoom={5}
-									onLoad={onLoad}
-									onUnmount={onUnmount}
+									zoom={7}
 								>
 									{/* Child components, such as markers, info windows, etc. */}
 									<>
