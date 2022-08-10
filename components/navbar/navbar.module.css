@@ -1,0 +1,74 @@
+.navbarContainer {
+	background-color: white;
+	display: flex;
+	display: -webkit-flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.navbar {
+	display: flex;
+	display: -webkit-flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 1280px;
+	padding-top: 1rem;
+}
+
+.navbarLeft {
+	display: flex;
+	display: -webkit-flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.navbarLogo {
+	font-family: 'Poppins', sans-serif;
+	font-size: 2.25rem;
+}
+
+.navbarLogo .logoI {
+	color: var(--lottie-pink);
+}
+
+.linkList {
+	list-style-type: none;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-size: 0.75rem;
+	font-weight: 800;
+}
+
+.linkList li {
+	display: inline;
+	margin: 0 0.75rem;
+}
+
+.phoneNumber {
+	color: var(--lottie-pink);
+	border-left: 1px solid black;
+	padding: 0.5rem 1rem;
+}
+
+.navbarSearch {
+	box-shadow: 0 6px 6px #ccc;
+	border-radius: 8px;
+	margin-left: 3rem;
+}
+
+.navbarSearch input {
+	border: none;
+	padding: 0;
+	font-size: 1rem;
+	padding: 0.5rem 0;
+	border-radius: 8px;
+}
+
+.navbarSearch svg {
+	margin: 0 0.5rem;
+}
+
+.navbarSearch input:focus {
+	outline: none;
+}

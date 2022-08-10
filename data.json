@@ -1,0 +1,4727 @@
+{
+	"65432204419": {
+		"name": "Berehill House",
+		"imagePath": "Anavo+Care_Berehill+House_001.jpeg",
+		"location": "Whitchurch",
+		"cqcRating": "Good",
+		"pricesFrom": 1100,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/basingstoke-deane-area/whitchurch/rg28/berehill-house/",
+		"lat": 51.2326434,
+		"lon": -1.3370426,
+		"pricing": {
+			"permanent": {
+				"residential": "1100",
+				"residentialDementia": "1200",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1100",
+				"residentialDementia": "1200",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"2500": {
+		"name": "Marlborough House",
+		"imagePath": "Anavo+Care_Marlborough+House_001.jpeg",
+		"location": "Fleet",
+		"cqcRating": "Good",
+		"pricesFrom": 1100,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/hart-area/fleet/gu52/marlborough-house/",
+		"lat": 51.2647098,
+		"lon": -0.8238492,
+		"pricing": {
+			"permanent": {
+				"residential": "1100",
+				"residentialDementia": "1100",
+				"nursing": "1200",
+				"nursingDementia": "1200"
+			},
+			"respite": {
+				"residential": "1100",
+				"residentialDementia": "1100",
+				"nursing": "1200",
+				"nursingDementia": "1200"
+			}
+		}
+	},
+	"12816": {
+		"name": "Wessex Lodge",
+		"imagePath": "Anavo+Care_Wessex+Lodge_001.jpeg",
+		"location": "Whitchurch",
+		"cqcRating": "Good",
+		"pricesFrom": 1100,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/basingstoke-deane-area/whitchurch/rg28/wessex-lodge/",
+		"lat": 51.2326434,
+		"lon": -1.3370426,
+		"pricing": {
+			"permanent": {
+				"residential": "1100",
+				"residentialDementia": "1100",
+				"nursing": "1200",
+				"nursingDementia": "1200"
+			},
+			"respite": {
+				"residential": "1100",
+				"residentialDementia": "1200",
+				"nursing": "1200",
+				"nursingDementia": "1200"
+			}
+		}
+	},
+	"76503": {
+		"name": "Amherst Court",
+		"imagePath": "Avante+Care_Amherst+Court_001.jpeg",
+		"location": "Chatham",
+		"cqcRating": "Good",
+		"pricesFrom": 1088.44,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/medway-area/chatham/me4/amherst-court/",
+		"lat": 51.365058,
+		"lon": 0.5242173,
+		"pricing": {
+			"permanent": {
+				"residential": "1088.44",
+				"residentialDementia": "1088.44",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1088.44",
+				"residentialDementia": "1088.44",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"20596": {
+		"name": "Bridge Haven",
+		"imagePath": "Avante+Care_Bridge+Haven_001.jpeg",
+		"location": "Canterbury",
+		"cqcRating": "Good",
+		"pricesFrom": 1002.98,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/canterbury-area/canterbury/ct4/bridge-haven/",
+		"lat": 51.2496275,
+		"lon": 1.1247591,
+		"pricing": {
+			"permanent": {
+				"residential": "1002.98",
+				"residentialDementia": "1002.98",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1002.98",
+				"residentialDementia": "1002.98",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432207781": {
+		"name": "Chaucer House",
+		"imagePath": "Avante+Care_Chaucer+House_001.jpeg",
+		"location": "Canterbury",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 1260,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/canterbury-area/canterbury/ct1/chaucer-house/",
+		"lat": 51.2775708,
+		"lon": 1.0971567,
+		"pricing": {
+			"permanent": {
+				"residential": "1260",
+				"residentialDementia": "1260",
+				"nursing": "1422.75",
+				"nursingDementia": "1422.75"
+			},
+			"respite": {
+				"residential": "1260",
+				"residentialDementia": "1260",
+				"nursing": "1422.75",
+				"nursingDementia": "1422.75"
+			}
+		}
+	},
+	"20680": {
+		"name": "Court Regis",
+		"imagePath": "Avante+Care_Court+Regis_001.jpeg",
+		"location": "Sittingbourne",
+		"cqcRating": "Good",
+		"pricesFrom": 773.84,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/swale-area/sittingbourne/me10/court-regis/",
+		"lat": 51.3531389,
+		"lon": 0.7308259,
+		"pricing": {
+			"permanent": {
+				"residential": "773.84",
+				"residentialDementia": "975.45",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "773.84",
+				"residentialDementia": "975.45",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"52039": {
+		"name": "Northbourne Court",
+		"imagePath": "Avante+Care_Northbourne+Court_001.jpeg",
+		"location": "Sidcup",
+		"cqcRating": "Good",
+		"pricesFrom": 1212.65,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/bexley-borough/sidcup/da15/northbourne-court/",
+		"lat": 51.4345959,
+		"lon": 0.0903011,
+		"pricing": {
+			"permanent": {
+				"residential": "1212.65",
+				"residentialDementia": "13542.7",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1212.65",
+				"residentialDementia": "1212.65",
+				"nursing": "1342.7",
+				"nursingDementia": "1342.7"
+			}
+		}
+	},
+	"9490": {
+		"name": "Parkview",
+		"imagePath": "Avante+Care_Parkview_001.jpeg",
+		"location": "Bexleyheath",
+		"cqcRating": "Good",
+		"pricesFrom": 1153.27,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/bexley-borough/bexleyheath/da7/parkview/",
+		"lat": 51.4603774,
+		"lon": 0.1466013,
+		"pricing": {
+			"permanent": {
+				"residential": "1153.27",
+				"residentialDementia": "1153.27",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1153.27",
+				"residentialDementia": "1153.27",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"20699": {
+		"name": "Pilgrims View",
+		"imagePath": "Avante+Care_Pilgrims+View_001.jpeg",
+		"location": "Snodland",
+		"cqcRating": "Good",
+		"pricesFrom": 1000.15,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/tonbridge-malling-area/snodland/me6/pilgrims-view/",
+		"lat": 51.3298925,
+		"lon": 0.4359208,
+		"pricing": {
+			"permanent": {
+				"residential": "1000.15",
+				"residentialDementia": "1000.15",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1000.15",
+				"residentialDementia": "1000.15",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432203156": {
+		"name": "Puddingstone Grange",
+		"imagePath": "Avante+Care_Puddingstone+Grange_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1389.15,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/greenwich-borough/london-greenwich-borough/se18/puddingstone-grange/",
+		"lat": 51.4817675,
+		"lon": 0.0728706,
+		"pricing": {
+			"permanent": {
+				"residential": "1389.15",
+				"residentialDementia": "1389.15",
+				"nursing": "1580.16",
+				"nursingDementia": "1580.16"
+			},
+			"respite": {
+				"residential": "1389.15",
+				"residentialDementia": "1389.15",
+				"nursing": "1580.16",
+				"nursingDementia": "1580.16"
+			}
+		}
+	},
+	"77841": {
+		"name": "Riverdale Court",
+		"imagePath": "Avante+Care_Riverdale+Court_001.jpeg",
+		"location": "Welling",
+		"cqcRating": "Good",
+		"pricesFrom": 1359.12,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/bexley-borough/welling/da16/riverdale-court/",
+		"lat": 51.4681599,
+		"lon": 0.104247,
+		"pricing": {
+			"permanent": {
+				"residential": "1359.12",
+				"residentialDementia": "2359.12",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1359.12",
+				"residentialDementia": "1359.12",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"23118": {
+		"name": "Weybourne",
+		"imagePath": "Avante+Care_Weybourne_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1033.97,
+		"greenerChoice": false,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/greenwich-borough/london-greenwich-borough/se2/weybourne/",
+		"lat": 51.4943177,
+		"lon": 0.1118918,
+		"pricing": {
+			"permanent": {
+				"residential": "1033.97",
+				"residentialDementia": "1033.97",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1033.97",
+				"residentialDementia": "1033.97",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432212845": {
+		"name": "Cumnor Hill House",
+		"imagePath": "Berkley+Care_Cumnor+Hill+House_001.jpeg",
+		"location": "Oxford",
+		"cqcRating": "Outstanding",
+		"pricesFrom": 1400,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Oxfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/oxfordshire/vale-of-white-horse-area/oxford/ox2/cumnor-hill-house/",
+		"lat": 51.7429648,
+		"lon": -1.3109174,
+		"pricing": {
+			"permanent": {
+				"residential": "1400",
+				"residentialDementia": "1500",
+				"nursing": "1500",
+				"nursingDementia": "1400"
+			},
+			"respite": {
+				"residential": "1450",
+				"residentialDementia": "1550",
+				"nursing": "1550",
+				"nursingDementia": "1550"
+			}
+		}
+	},
+	"84479": {
+		"name": "Groveland Park",
+		"imagePath": "Berkley+Care_Groveland+Park_001.jpeg",
+		"location": "Bexleyheath",
+		"cqcRating": "Outstanding",
+		"pricesFrom": 1400,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/bexley-borough/bexleyheath/da7/groveland-park/",
+		"lat": 51.4584949,
+		"lon": 0.1629091,
+		"pricing": {
+			"permanent": {
+				"residential": "1400",
+				"residentialDementia": "1400",
+				"nursing": "1500",
+				"nursingDementia": "1400"
+			},
+			"respite": {
+				"residential": "1450",
+				"residentialDementia": "1550",
+				"nursing": "1550",
+				"nursingDementia": "1550"
+			}
+		}
+	},
+	"65432233160": {
+		"name": "Portobello Place",
+		"imagePath": "Berkley+Care_Portobello+Place_001.jpeg",
+		"location": "Chesham",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1300,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Buckinghamshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/buckinghamshire/chiltern-area/chesham/hp5/portobello-place/",
+		"lat": 51.7202018,
+		"lon": -0.6366629,
+		"pricing": {
+			"permanent": {
+				"residential": "1300",
+				"residentialDementia": "1400",
+				"nursing": "N/A",
+				"nursingDementia": "1400"
+			},
+			"respite": {
+				"residential": "1450",
+				"residentialDementia": "1550",
+				"nursing": "N/A",
+				"nursingDementia": "1550"
+			}
+		}
+	},
+	"65432212849": {
+		"name": "Ryefield Court",
+		"imagePath": "Berkley+Care_Ryefield+Court_001.jpeg",
+		"location": "Uxbridge",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 1400,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/hillingdon-borough/uxbridge/ub10/ryefield-court/",
+		"lat": 51.5423921,
+		"lon": -0.4375309,
+		"pricing": {
+			"permanent": {
+				"residential": "1400",
+				"residentialDementia": "1500",
+				"nursing": "N/A",
+				"nursingDementia": "1400"
+			},
+			"respite": {
+				"residential": "1450",
+				"residentialDementia": "1550",
+				"nursing": "N/A",
+				"nursingDementia": "1550"
+			}
+		}
+	},
+	"65432212847": {
+		"name": "Shinfield View",
+		"imagePath": "Berkley+Care_Shinfield+View_001.jpeg",
+		"location": "Reading",
+		"cqcRating": "Outstanding",
+		"pricesFrom": 1400,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Berkshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/berkshire/wokingham-area/reading/rg2/shinfield-view/",
+		"lat": 51.4048863,
+		"lon": -0.9463391,
+		"pricing": {
+			"permanent": {
+				"residential": "1400",
+				"residentialDementia": "1500",
+				"nursing": "N/A",
+				"nursingDementia": "1500"
+			},
+			"respite": {
+				"residential": "1450",
+				"residentialDementia": "1550",
+				"nursing": "N/A",
+				"nursingDementia": "1550"
+			}
+		}
+	},
+	"65432229002": {
+		"name": "The Burlington",
+		"imagePath": "Boutique+Care_The+Burlington_001.jpeg",
+		"location": "Shepperton",
+		"cqcRating": "Good",
+		"pricesFrom": 1250,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/spelthorne-area/shepperton/tw17/the-burlington/",
+		"lat": 51.3947545,
+		"lon": -0.4422208,
+		"pricing": {
+			"permanent": {
+				"residential": "1250",
+				"residentialDementia": "1275",
+				"nursing": "1375",
+				"nursingDementia": "1475"
+			},
+			"respite": {
+				"residential": "1700",
+				"residentialDementia": "1700",
+				"nursing": "1700",
+				"nursingDementia": "1700"
+			}
+		}
+	},
+	"65432227789": {
+		"name": "Haling Park",
+		"imagePath": "Care+Concern_Haling+Park_001.jpeg",
+		"location": "South Croydon",
+		"cqcRating": "Good",
+		"pricesFrom": 1100,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/croydon-borough/south-croydon/cr2/haling-park/",
+		"lat": 51.3630639,
+		"lon": -0.1063263,
+		"pricing": {
+			"permanent": {
+				"residential": "1100",
+				"residentialDementia": "1200",
+				"nursing": "1290",
+				"nursingDementia": "1350"
+			},
+			"respite": {
+				"residential": "1200",
+				"residentialDementia": "1250",
+				"nursing": "1350",
+				"nursingDementia": "1400"
+			}
+		}
+	},
+	"39079": {
+		"name": "Hazelwood",
+		"imagePath": "Care+Concern_Hazlewood_001.jpeg",
+		"location": "Longfield",
+		"cqcRating": "Good",
+		"pricesFrom": 1350,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/dartford-area/longfield/da3/hazelwood/",
+		"lat": 51.3942108,
+		"lon": 0.3177043,
+		"pricing": {
+			"permanent": {
+				"residential": "1350",
+				"residentialDementia": "1450",
+				"nursing": "1500",
+				"nursingDementia": "1700"
+			},
+			"respite": {
+				"residential": "1350",
+				"residentialDementia": "1450",
+				"nursing": "1500",
+				"nursingDementia": "1700"
+			}
+		}
+	},
+	"65432238008": {
+		"name": "Ancasta Grove",
+		"imagePath": "Care+UK_Ancasta+Grange_001.jpeg",
+		"location": "Southampton",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1290,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/fareham-area/southampton/so31/ancasta-grove/",
+		"lat": 50.8710932,
+		"lon": -1.2895473,
+		"pricing": {
+			"permanent": {
+				"residential": "1290",
+				"residentialDementia": "1340",
+				"nursing": "1474",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1500",
+				"residentialDementia": "1550",
+				"nursing": "1684",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432231911": {
+		"name": "Bickerton House",
+		"imagePath": "Care+UK_Bickerton+House_001.jpeg",
+		"location": "Bracknell",
+		"cqcRating": "Good",
+		"pricesFrom": 1210,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Berkshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/berkshire/bracknell-forest-area/bracknell/rg12/bickerton-house/",
+		"lat": 51.4199447,
+		"lon": -0.7443091,
+		"pricing": {
+			"permanent": {
+				"residential": "1210",
+				"residentialDementia": "1260",
+				"nursing": "1394",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"84700": {
+		"name": "Bowes House",
+		"imagePath": "Care+UK_Bowes+House_001.jpeg",
+		"location": "Hailsham",
+		"cqcRating": "Good",
+		"pricesFrom": 1373,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/wealden-area/hailsham/bn27/bowes-house/",
+		"lat": 50.8681984,
+		"lon": 0.2571452,
+		"pricing": {
+			"permanent": {
+				"residential": "1373",
+				"residentialDementia": "1423",
+				"nursing": "1558",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1583",
+				"residentialDementia": "1633",
+				"nursing": "1768",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432224618": {
+		"name": "Buchanan Court",
+		"imagePath": "Care+UK_Buchanan+Court_001.jpeg",
+		"location": "Harrow",
+		"cqcRating": "Good",
+		"pricesFrom": 1293,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/harrow-borough/harrow/ha1/buchanan-court/",
+		"lat": 51.5620347,
+		"lon": -0.3325774,
+		"pricing": {
+			"permanent": {
+				"residential": "1293",
+				"residentialDementia": "1343",
+				"nursing": "1477",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1503",
+				"residentialDementia": "1553",
+				"nursing": "1687",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432233049": {
+		"name": "Carpathia Grange",
+		"imagePath": "Care+UK_Capathia+Grange_001.jpeg",
+		"location": "Southampton",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1219,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/new-forest-area/southampton-new-forest-area/so45/carpathia-grange/",
+		"lat": 50.8637032,
+		"lon": -1.4004087,
+		"pricing": {
+			"permanent": {
+				"residential": "1219",
+				"residentialDementia": "1269",
+				"nursing": "1403",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1429",
+				"residentialDementia": "1479",
+				"nursing": "1613",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"84568": {
+		"name": "Foxbridge House",
+		"imagePath": "Care+UK_Foxbridge+House_001.jpeg",
+		"location": "Orpington",
+		"cqcRating": "Good",
+		"pricesFrom": 1585,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/bromley-borough/orpington/br6/foxbridge-house/",
+		"lat": 51.3489453,
+		"lon": 0.0884411,
+		"pricing": {
+			"permanent": {
+				"residential": "1585",
+				"residentialDementia": "1635",
+				"nursing": "1769",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1795",
+				"residentialDementia": "1845",
+				"nursing": "1979",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432231439": {
+		"name": "Harrier Lodge",
+		"imagePath": "Care+UK_Harrier+Lodge_001.jpeg",
+		"location": "Whitstable",
+		"cqcRating": "Good",
+		"pricesFrom": 1293,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/canterbury-area/whitstable/ct5/harrier-lodge/",
+		"lat": 51.3408765,
+		"lon": 1.0224127,
+		"pricing": {
+			"permanent": {
+				"residential": "1293",
+				"residentialDementia": "1343",
+				"nursing": "1477",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1503",
+				"residentialDementia": "1553",
+				"nursing": "1687",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432215183": {
+		"name": "Highmarket House",
+		"imagePath": "Care+UK_Hightmarket+House_001.jpeg",
+		"location": "Banbury",
+		"cqcRating": "Good",
+		"pricesFrom": 1275,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Oxfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/oxfordshire/cherwell-area/banbury/ox16/highmarket-house/",
+		"lat": 52.0626269,
+		"lon": -1.3407003,
+		"pricing": {
+			"permanent": {
+				"residential": "1275",
+				"residentialDementia": "1325",
+				"nursing": "1497",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432236457": {
+		"name": "Invicta Court",
+		"imagePath": "Care+UK_Invicta+Court_001.jpeg",
+		"location": "Maidstone",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1306,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/maidstone-area/maidstone/me14/invicta-court/",
+		"lat": 51.2847791,
+		"lon": 0.5578166,
+		"pricing": {
+			"permanent": {
+				"residential": "1306",
+				"residentialDementia": "1356",
+				"nursing": "1490",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1516",
+				"residentialDementia": "1566",
+				"nursing": "1700",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"37331": {
+		"name": "Jubilee House",
+		"imagePath": "Care+UK_Jubilee+House_001.jpeg",
+		"location": "Godalming",
+		"cqcRating": "Outstanding",
+		"pricesFrom": 1118,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/waverley-area/godalming/gu7/jubilee-house/",
+		"lat": 51.1852075,
+		"lon": -0.6122009,
+		"pricing": {
+			"permanent": {
+				"residential": "1118",
+				"residentialDementia": "1168",
+				"nursing": "1308",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1328",
+				"residentialDementia": "1378",
+				"nursing": "1518",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"82925": {
+		"name": "Mill View",
+		"imagePath": "Care+UK_Mill+View_001.jpeg",
+		"location": "East Grinstead",
+		"cqcRating": "Good",
+		"pricesFrom": 1431,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "West Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/west-sussex/mid-sussex-area/east-grinstead/rh19/mill-view/",
+		"lat": 51.1150012,
+		"lon": -0.0121396,
+		"pricing": {
+			"permanent": {
+				"residential": "1431",
+				"residentialDementia": "1481",
+				"nursing": "1615",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1641",
+				"residentialDementia": "1691",
+				"nursing": "1825",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432232139": {
+		"name": "Millers Grange",
+		"imagePath": "Care+UK_Millers+Grange_001.jpeg",
+		"location": "Witney",
+		"cqcRating": "Good",
+		"pricesFrom": 1325,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Oxfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/oxfordshire/oxford-area/witney/ox28/millers-grange/",
+		"lat": 51.7819028,
+		"lon": -1.5049345,
+		"pricing": {
+			"permanent": {
+				"residential": "1325",
+				"residentialDementia": "1375",
+				"nursing": "1509",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1535",
+				"residentialDementia": "1585",
+				"nursing": "1719",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"16512": {
+		"name": "Milner House",
+		"imagePath": "Care+UK_Milner+House_001.jpeg",
+		"location": "Leatherhead",
+		"cqcRating": "Good",
+		"pricesFrom": 1243,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/mole-valley-area/leatherhead/kt22/milner-house/",
+		"lat": 51.2976952,
+		"lon": -0.3078596,
+		"pricing": {
+			"permanent": {
+				"residential": "1243",
+				"residentialDementia": "1293",
+				"nursing": "1427",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1453",
+				"residentialDementia": "1503",
+				"nursing": "1637",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432231912": {
+		"name": "Montfort Manor",
+		"imagePath": "Care+UK_Montfort+Manor_001.jpeg",
+		"location": "Ashford",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1272,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/ashford-area/ashford/tn24/montfort-manor/",
+		"lat": 51.1414898,
+		"lon": 0.9162398,
+		"pricing": {
+			"permanent": {
+				"residential": "1272",
+				"residentialDementia": "1322",
+				"nursing": "1456",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1482",
+				"residentialDementia": "1532",
+				"nursing": "1666",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432229139": {
+		"name": "Mountbatten Grange",
+		"imagePath": "Care+UK_Mountbatten+Grange_001.jpeg",
+		"location": "Windsor",
+		"cqcRating": "Good",
+		"pricesFrom": 1389,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Berkshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/berkshire/windsor-maidenhead-area/windsor/sl4/mountbatten-grange/",
+		"lat": 51.481082,
+		"lon": -0.624787,
+		"pricing": {
+			"permanent": {
+				"residential": "1389",
+				"residentialDementia": "1439",
+				"nursing": "1573",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"25663": {
+		"name": "Norfolk House",
+		"imagePath": "Care+UK_Norfolk+House_001.jpeg",
+		"location": "Weybridge",
+		"cqcRating": "Good",
+		"pricesFrom": 1267,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/elmbridge-area/weybridge/kt13/norfolk-house/",
+		"lat": 51.3729483,
+		"lon": -0.4633774,
+		"pricing": {
+			"permanent": {
+				"residential": "1267",
+				"residentialDementia": "1317",
+				"nursing": "1467",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1477",
+				"residentialDementia": "1527",
+				"nursing": "1677",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432238026": {
+		"name": "Parsons Grange",
+		"imagePath": "Care+UK_Parsons+Grange_001.jpeg",
+		"location": "Reading",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1430,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Berkshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/berkshire/reading-area/reading-reading-area/rg2-reading-reading-area/parsons-grange/",
+		"lat": 51.4037082,
+		"lon": -0.9493275,
+		"pricing": {
+			"permanent": {
+				"residential": "1430",
+				"residentialDementia": "1480",
+				"nursing": "1614",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1640",
+				"residentialDementia": "1690",
+				"nursing": "1824",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"85986": {
+		"name": "The Potteries",
+		"imagePath": "Care+UK_The+Potteries_001.jpeg",
+		"location": "Broadstone",
+		"cqcRating": "Good",
+		"pricesFrom": 1219,
+		"greenerChoice": true,
+		"region": "South West England",
+		"county": "Dorset",
+		"listingUrl": "https://lottie.org/care-home/england/south-west-england/dorset/poole-area/broadstone/bh18/the-potteries/",
+		"lat": 50.7491114,
+		"lon": -1.9986093,
+		"pricing": {
+			"permanent": {
+				"residential": "1219",
+				"residentialDementia": "1269",
+				"nursing": "1403",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1429",
+				"residentialDementia": "1479",
+				"nursing": "1613",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432213134": {
+		"name": "Sherwood Grange",
+		"imagePath": "Care+UK_Sherwood+Grange_001.jpeg",
+		"location": "London",
+		"cqcRating": "Outstanding",
+		"pricesFrom": 1495,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/kingston-upon-thames-borough/london-kingston-upon-thames-borough/sw15/sherwood-grange/",
+		"lat": 51.4334182,
+		"lon": -0.2579636,
+		"pricing": {
+			"permanent": {
+				"residential": "1495",
+				"residentialDementia": "1545",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432217814": {
+		"name": "Skylark House",
+		"imagePath": "Care+UK_Skylark+House_001.jpeg",
+		"location": "Horsham",
+		"cqcRating": "Good",
+		"pricesFrom": 1585,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "West Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/west-sussex/horsham-area/horsham/rh12/skylark-house/",
+		"lat": 51.0824507,
+		"lon": -0.3140655,
+		"pricing": {
+			"permanent": {
+				"residential": "1585",
+				"residentialDementia": "1635",
+				"nursing": "1769",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1795",
+				"residentialDementia": "1845",
+				"nursing": "1979",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432217816": {
+		"name": "Weald Heights",
+		"imagePath": "Care+UK_Weald+Heights_001.jpeg",
+		"location": "Sevenoaks",
+		"cqcRating": "Good",
+		"pricesFrom": 1495,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/sevenoaks-area/sevenoaks/tn13/weald-heights/",
+		"lat": 51.2670465,
+		"lon": 0.1905922,
+		"pricing": {
+			"permanent": {
+				"residential": "1495",
+				"residentialDementia": "1545",
+				"nursing": "1679",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1705",
+				"residentialDementia": "1755",
+				"nursing": "1889",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432240129": {
+		"name": "Burgess Park",
+		"imagePath": "Country+Court_Burgess+Park_001.jpeg",
+		"location": "London",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1200,
+		"greenerChoice": false,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/southwark-borough/london-southwark-borough/se5/burgess-park/",
+		"lat": 51.4775805,
+		"lon": -0.0903976,
+		"pricing": {
+			"permanent": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "1200",
+				"nursingDementia": "1200"
+			},
+			"respite": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"44748": {
+		"name": "Carter House",
+		"imagePath": "Country+Court_Carter+House_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1200,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/merton-borough/london-merton-borough/sw20/carter-house/",
+		"lat": 51.4071784,
+		"lon": -0.2363436,
+		"pricing": {
+			"permanent": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "1300",
+				"nursingDementia": "1300"
+			},
+			"respite": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "1300",
+				"nursingDementia": "1300"
+			}
+		}
+	},
+	"65432221188": {
+		"name": "Lakeview Lodge",
+		"imagePath": "Country+Court_Lakeview_001.jpeg",
+		"location": "Milton Keynes",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 1200,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Buckinghamshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/buckinghamshire/milton-keynes-area/milton-keynes/mk3/lakeview-lodge/",
+		"lat": 51.9759114,
+		"lon": -0.7320406,
+		"pricing": {
+			"permanent": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"42058": {
+		"name": "Link House",
+		"imagePath": "Country+Court_Link+House_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1200,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/merton-borough/london-merton-borough/sw20/link-house/",
+		"lat": 51.4029706,
+		"lon": -0.232221,
+		"pricing": {
+			"permanent": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "1300",
+				"nursingDementia": "1300"
+			},
+			"respite": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "1300",
+				"nursingDementia": "1300"
+			}
+		}
+	},
+	"5066": {
+		"name": "Lyle House",
+		"imagePath": "Country+Court_Lyle+House_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1300,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/wandsworth-borough/london-wandsworth-borough/sw15-london-wandsworth-borough/lyle-house/",
+		"lat": 51.4648096,
+		"lon": -0.249369,
+		"pricing": {
+			"permanent": {
+				"residential": "1300",
+				"residentialDementia": "1300",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1300",
+				"residentialDementia": "1300",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"8512": {
+		"name": "Marling Court",
+		"imagePath": "Country+Court_Marling+Court_001.jpeg",
+		"location": "Hampton",
+		"cqcRating": "Good",
+		"pricesFrom": 1250,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/richmond-borough/hampton/tw12/marling-court/",
+		"lat": 51.4256435,
+		"lon": -0.3778512,
+		"pricing": {
+			"permanent": {
+				"residential": "1250",
+				"residentialDementia": "1250",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1250",
+				"residentialDementia": "1250",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432236740": {
+		"name": "The Grange",
+		"imagePath": "Country+Court_The+Grange_001.jpeg",
+		"location": "Saffron Walden",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1300,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Essex",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/essex/uttlesford-area/saffron-walden/cb11/the-grange/",
+		"lat": 51.9882509,
+		"lon": 0.2073943,
+		"pricing": {
+			"permanent": {
+				"residential": "1300",
+				"residentialDementia": "1300",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1300",
+				"residentialDementia": "1300",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"17838": {
+		"name": "The Pines",
+		"imagePath": "Country+Court_The+Pines_001.jpeg",
+		"location": "Hove",
+		"cqcRating": "Good",
+		"pricesFrom": 1400,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/brighton-hove-area/hove/bn3/the-pines/",
+		"lat": 50.8283156,
+		"lon": -0.1578366,
+		"pricing": {
+			"permanent": {
+				"residential": "1400",
+				"residentialDementia": "1400",
+				"nursing": "1400",
+				"nursingDementia": "1400"
+			},
+			"respite": {
+				"residential": "1400",
+				"residentialDementia": "1400",
+				"nursing": "1400",
+				"nursingDementia": "1400"
+			}
+		}
+	},
+	"65432230369": {
+		"name": "Walberton Place",
+		"imagePath": "Country+Court_Walberton+Place_001.png",
+		"location": "Arundel",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1300,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "West Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/west-sussex/chichester-area/arundel/bn18/walberton-place/",
+		"lat": 50.8371144,
+		"lon": -0.6133031,
+		"pricing": {
+			"permanent": {
+				"residential": "1300",
+				"residentialDementia": "1350",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1300",
+				"residentialDementia": "1350",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"43281": {
+		"name": "Woodlands House",
+		"imagePath": "Country+Court_Woodlands+House_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1200,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/merton-borough/london-merton-borough/sw19/country-court-woodlands-house/",
+		"lat": 51.418101,
+		"lon": -0.1715624,
+		"pricing": {
+			"permanent": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "1300",
+				"nursingDementia": "1300"
+			},
+			"respite": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "1300",
+				"nursingDementia": "1300"
+			}
+		}
+	},
+	"21004": {
+		"name": "Borovere",
+		"imagePath": "Greensleeves+Care_Borovere_001.jpeg",
+		"location": "Alton",
+		"cqcRating": "Good",
+		"pricesFrom": 1216,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/east-hampshire-area/alton/gu34/borovere/",
+		"lat": 51.1431835,
+		"lon": -0.9807888,
+		"pricing": {
+			"permanent": {
+				"residential": "1216",
+				"residentialDementia": "1216",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1216",
+				"residentialDementia": "1216",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"41674": {
+		"name": "Glebelands",
+		"imagePath": "Greensleeves+Care_Glebelands_001.jpeg",
+		"location": "Wokingham",
+		"cqcRating": "Good",
+		"pricesFrom": 1504,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "Berkshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/berkshire/wokingham-area/wokingham/rg40/glebelands/",
+		"lat": 51.4166264,
+		"lon": -0.8375568,
+		"pricing": {
+			"permanent": {
+				"residential": "1504",
+				"residentialDementia": "N/A",
+				"nursing": "1504",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1504",
+				"residentialDementia": "N/A",
+				"nursing": "1504",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"15976": {
+		"name": "Gloucester House",
+		"imagePath": "Greensleeves+Care_Gloucester+House_001.jpeg",
+		"location": "Sevenoaks",
+		"cqcRating": "Good",
+		"pricesFrom": 1655,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/sevenoaks-area/sevenoaks/tn13/gloucester-house/",
+		"lat": 51.283839,
+		"lon": 0.2029354,
+		"pricing": {
+			"permanent": {
+				"residential": "1655",
+				"residentialDementia": "N/A",
+				"nursing": "1655",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1655",
+				"residentialDementia": "N/A",
+				"nursing": "1655",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"17087": {
+		"name": "Grosvenor House",
+		"imagePath": "Greensleeves+Care_Grosvenor+House_001.jpeg",
+		"location": "St Leonards-on-Sea",
+		"cqcRating": "Good",
+		"pricesFrom": 995,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/hastings-area/st-leonards-on-sea/tn38/grosvenor-house/",
+		"lat": 50.8509793,
+		"lon": 0.5391792,
+		"pricing": {
+			"permanent": {
+				"residential": "995",
+				"residentialDementia": "995",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "995",
+				"residentialDementia": "995",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432229276": {
+		"name": "Lavender Fields",
+		"imagePath": "Greensleeves+Care_Lavender+Fields_001.jpeg",
+		"location": "Sevenoaks",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 1472,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/sevenoaks-area/sevenoaks/tn15/lavender-fields/",
+		"lat": 51.289289,
+		"lon": 0.2162622,
+		"pricing": {
+			"permanent": {
+				"residential": "1472",
+				"residentialDementia": "1472",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1472",
+				"residentialDementia": "1472",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"17918": {
+		"name": "Queen Elizabeth House",
+		"imagePath": "Greensleeves+Care_Queen+Elizabeth+House_001.jpeg",
+		"location": "Bromley",
+		"cqcRating": "Good",
+		"pricesFrom": 1241,
+		"greenerChoice": false,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/bromley-borough/bromley/br1/queen-elizabeth-house/",
+		"lat": 51.397572,
+		"lon": 0.0454697,
+		"pricing": {
+			"permanent": {
+				"residential": "1241",
+				"residentialDementia": "1241",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1241",
+				"residentialDementia": "1241",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"22540": {
+		"name": "Speirs House",
+		"imagePath": "Greensleeves+Care_Speirs+House_001.jpeg",
+		"location": "New Malden",
+		"cqcRating": "Good",
+		"pricesFrom": 1671,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/kingston-upon-thames-borough/new-malden/kt3/speirs-house/",
+		"lat": 51.4145873,
+		"lon": -0.2585218,
+		"pricing": {
+			"permanent": {
+				"residential": "1671",
+				"residentialDementia": "N/A",
+				"nursing": "1671",
+				"nursingDementia": "1671"
+			},
+			"respite": {
+				"residential": "1671",
+				"residentialDementia": "N/A",
+				"nursing": "1671",
+				"nursingDementia": "1671"
+			}
+		}
+	},
+	"12296": {
+		"name": "St Cross Grange",
+		"imagePath": "Greensleeves+Care_St+Cross+Grange_001.jpeg",
+		"location": "Winchester",
+		"cqcRating": "Good",
+		"pricesFrom": 1345,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/winchester-area/winchester/so23/st-cross-grange/",
+		"lat": 51.0471129,
+		"lon": -1.3241623,
+		"pricing": {
+			"permanent": {
+				"residential": "1345",
+				"residentialDementia": "1345",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1345",
+				"residentialDementia": "1345",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"740": {
+		"name": "Tickford Abbey",
+		"imagePath": "Greensleeves+Care_Tickford+Abbey_001.jpeg",
+		"location": "Newport Pagnell",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 1028,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "Buckinghamshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/buckinghamshire/milton-keynes-area/newport-pagnell/mk16/tickford-abbey/",
+		"lat": 52.0874835,
+		"lon": -0.712959,
+		"pricing": {
+			"permanent": {
+				"residential": "1028",
+				"residentialDementia": "1028",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1028",
+				"residentialDementia": "1028",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"9771": {
+		"name": "Torkington House",
+		"imagePath": "Greensleeves+Care_Torkington+House_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1286,
+		"greenerChoice": false,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/ealing-borough/london-ealing-borough/w3/torkington-house/",
+		"lat": 51.5133209,
+		"lon": -0.2752099,
+		"pricing": {
+			"permanent": {
+				"residential": "1286",
+				"residentialDementia": "1286",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1286",
+				"residentialDementia": "1286",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"18839": {
+		"name": "Viera Gray House",
+		"imagePath": "Greensleeves+Care_Viera+Gray+House_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1332,
+		"greenerChoice": false,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/richmond-borough/london-richmond-borough/sw13/viera-gray-house/",
+		"lat": 51.4787231,
+		"lon": -0.2410744,
+		"pricing": {
+			"permanent": {
+				"residential": "1332",
+				"residentialDementia": "1332",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1332",
+				"residentialDementia": "1332",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"16240": {
+		"name": "Whitegates",
+		"imagePath": "Greensleeves+Care_Whitegates_001.jpeg",
+		"location": "Hastings",
+		"cqcRating": "Good",
+		"pricesFrom": 1322,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/rother-area/hastings/tn35/whitegates/",
+		"lat": 50.9013743,
+		"lon": 0.5691726,
+		"pricing": {
+			"permanent": {
+				"residential": "1322",
+				"residentialDementia": "1322",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1322",
+				"residentialDementia": "1322",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"82869": {
+		"name": "Admiral Court",
+		"imagePath": "Hallmark+Care_Admiral+Court_001.jpeg",
+		"location": "Leigh-on-Sea",
+		"cqcRating": "Outstanding",
+		"pricesFrom": 1495,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Essex",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/essex/southend-on-sea-area/leigh-on-sea/ss9/admiral-court/",
+		"lat": 51.5511916,
+		"lon": 0.6652642,
+		"pricing": {
+			"permanent": {
+				"residential": "1495",
+				"residentialDementia": "1495",
+				"nursing": "1750",
+				"nursingDementia": "1750"
+			},
+			"respite": {
+				"residential": "1650",
+				"residentialDementia": "1650",
+				"nursing": "1925",
+				"nursingDementia": "1925"
+			}
+		}
+	},
+	"77899": {
+		"name": "Alexandra Grange",
+		"imagePath": "Hallmark+Care_Alexandra+Grange_001.jpeg",
+		"location": "Wokingham",
+		"cqcRating": "Good",
+		"pricesFrom": 1489,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Berkshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/berkshire/wokingham-area/wokingham/rg41/alexandra-grange/",
+		"lat": 51.4062568,
+		"lon": -0.8465318,
+		"pricing": {
+			"permanent": {
+				"residential": "1489",
+				"residentialDementia": "1600",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1637",
+				"residentialDementia": "1766",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"78729": {
+		"name": "Anisha Grange",
+		"imagePath": "Hallmark+Care_Anisha+Grange_001.jpeg",
+		"location": "Billericay",
+		"cqcRating": "Outstanding",
+		"pricesFrom": 1495,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Essex",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/essex/basildon-area/billericay/cm11/anisha-grange/",
+		"lat": 51.6231973,
+		"lon": 0.4401431,
+		"pricing": {
+			"permanent": {
+				"residential": "1495",
+				"residentialDementia": "1620",
+				"nursing": "1750",
+				"nursingDementia": "1830"
+			},
+			"respite": {
+				"residential": "1645",
+				"residentialDementia": "1785",
+				"nursing": "1925",
+				"nursingDementia": "2015"
+			}
+		}
+	},
+	"65432220706": {
+		"name": "Arlington Manor",
+		"imagePath": "Hallmark+Care_Arlington+Manor_001.jpeg",
+		"location": "Cambridge",
+		"cqcRating": "Good",
+		"pricesFrom": 1500,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Cambridgeshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/cambridgeshire/cambridge-area/cambridge/cb3/arlington-manor/",
+		"lat": 52.2311916,
+		"lon": 0.0880859,
+		"pricing": {
+			"permanent": {
+				"residential": "1500",
+				"residentialDementia": "1600",
+				"nursing": "1700",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1700",
+				"residentialDementia": "1800",
+				"nursing": "1800",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432229629": {
+		"name": "Banstead Manor",
+		"imagePath": "Hallmark+Care_Banstead+Manor_001.jpeg",
+		"location": "Banstead",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1500,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/reigate-banstead-area/banstead/sm7/banstead-manor/",
+		"lat": 51.3204811,
+		"lon": -0.2115261,
+		"pricing": {
+			"permanent": {
+				"residential": "1500",
+				"residentialDementia": "1520",
+				"nursing": "1800",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1650",
+				"residentialDementia": "1650",
+				"nursing": "1980",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432210010": {
+		"name": "Chamberlain Court",
+		"imagePath": "Hallmark+Care_Chamberlain+Court_001.jpeg",
+		"location": "Tunbridge Wells",
+		"cqcRating": "Good",
+		"pricesFrom": 1537,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/tunbridge-wells-area/tunbridge-wells/tn4/chamberlain-court/",
+		"lat": 51.1322592,
+		"lon": 0.2546319,
+		"pricing": {
+			"permanent": {
+				"residential": "1537",
+				"residentialDementia": "1670",
+				"nursing": "1802",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1691",
+				"residentialDementia": "1837",
+				"nursing": "1982",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432233596": {
+		"name": "Henley Manor",
+		"imagePath": "Hallmark+Care_Henley+Manor_001.jpeg",
+		"location": "Henley-on-Thames",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1375,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Oxfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/oxfordshire/south-oxfordshire-area/henley-on-thames/rg9/henley-manor/",
+		"lat": 51.5279897,
+		"lon": -0.8929899,
+		"pricing": {
+			"permanent": {
+				"residential": "1375",
+				"residentialDementia": "1585",
+				"nursing": "1750",
+				"nursingDementia": "1750"
+			},
+			"respite": {
+				"residential": "1512.5",
+				"residentialDementia": "1743.5",
+				"nursing": "1925",
+				"nursingDementia": "1925"
+			}
+		}
+	},
+	"65432235688": {
+		"name": "Hutton View",
+		"imagePath": "Hallmark+Care_Hutton+View_001.jpeg",
+		"location": "Brentwood",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1600,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Essex",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/essex/brentwood-area/brentwood/cm13/hutton-view/",
+		"lat": 51.6312353,
+		"lon": 0.3417607,
+		"pricing": {
+			"permanent": {
+				"residential": "1600",
+				"residentialDementia": "1725",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1760",
+				"residentialDementia": "1898",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"71459": {
+		"name": "Kew House",
+		"imagePath": "Hallmark+Care_Kew+House_001.jpeg",
+		"location": "London",
+		"cqcRating": "Outstanding",
+		"pricesFrom": 1630,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/merton-borough/london-merton-borough/sw19/kew-house/",
+		"lat": 51.4184905,
+		"lon": -0.2125655,
+		"pricing": {
+			"permanent": {
+				"residential": "1630",
+				"residentialDementia": "1780",
+				"nursing": "1905",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1793",
+				"residentialDementia": "1958",
+				"nursing": "2095",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432204928": {
+		"name": "Lakeview",
+		"imagePath": "Hallmark+Care_Lakeview_001.jpeg",
+		"location": "Lightwater",
+		"cqcRating": "Good",
+		"pricesFrom": 1225,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/surrey-heath-area/lightwater/gu18/lakeview/",
+		"lat": 51.3488073,
+		"lon": -0.6646337,
+		"pricing": {
+			"permanent": {
+				"residential": "1225",
+				"residentialDementia": "1325",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1347",
+				"residentialDementia": "1457",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432202009": {
+		"name": "Maycroft Manor",
+		"imagePath": "Hallmark+Care_Maycroft+Manor_001.jpeg",
+		"location": "Brighton",
+		"cqcRating": "Good",
+		"pricesFrom": 1600,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/brighton-hove-area/brighton/bn1/maycroft-manor/",
+		"lat": 50.8565283,
+		"lon": -0.1510276,
+		"pricing": {
+			"permanent": {
+				"residential": "1600",
+				"residentialDementia": "1700",
+				"nursing": "1875",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1760",
+				"residentialDementia": "1870",
+				"nursing": "2062.5",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"TBC": {
+		"name": "Canterbury House",
+		"imagePath": "Halycon+Care_Canterbury+House_001.jpeg",
+		"location": "Faversham",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1200,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/swale-area/faversham/me13/canterbury-house/",
+		"lat": 51.3105727,
+		"lon": 0.8797672,
+		"pricing": {
+			"permanent": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1200",
+				"residentialDementia": "1200",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432235708": {
+		"name": "Hazel End",
+		"imagePath": "Halycon+Care_Hazel+End_001.jpeg",
+		"location": "Bishop's Stortford",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1310,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Hertfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/hertfordshire/east-hertfordshire-area/bishops-stortford/cm23/hazel-end/",
+		"lat": 51.8863302,
+		"lon": 0.1667513,
+		"pricing": {
+			"permanent": {
+				"residential": "1310",
+				"residentialDementia": "1310",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1310",
+				"residentialDementia": "1310",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432236783": {
+		"name": "Marham House",
+		"imagePath": "Halycon+Care_Marham+House_001.jpeg",
+		"location": "Bury St Edmunds",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1260,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Suffolk",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/suffolk/suffolk-coastal-area/bury-st-edmunds/ip32/marham-house/",
+		"lat": 52.2695454,
+		"lon": 0.695946,
+		"pricing": {
+			"permanent": {
+				"residential": "1260",
+				"residentialDementia": "1260",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1260",
+				"residentialDementia": "1260",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432239698": {
+		"name": "Abbots Wood Manor",
+		"imagePath": "Hamberley+Care_Abbots+Wood+Manor_001.jpeg",
+		"location": "Hailsham",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1250,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/wealden-area/hailsham/bn27/abbots-wood-manor/",
+		"lat": 50.8723209,
+		"lon": 0.2509197,
+		"pricing": {
+			"permanent": {
+				"residential": "1250",
+				"residentialDementia": "1350",
+				"nursing": "1350",
+				"nursingDementia": "1450"
+			},
+			"respite": {
+				"residential": "1250",
+				"residentialDementia": "1350",
+				"nursing": "1350",
+				"nursingDementia": "1450"
+			}
+		}
+	},
+	"65432228506": {
+		"name": "Caddington Grove",
+		"imagePath": "Hamberley+Care_Caddington+Grove_001.jpeg",
+		"location": "Dunstable",
+		"cqcRating": "Good",
+		"pricesFrom": 1095,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Bedfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/bedfordshire/central-bedfordshire-area/dunstable/lu6/caddington-grove/",
+		"lat": 51.8749913,
+		"lon": -0.5038447,
+		"pricing": {
+			"permanent": {
+				"residential": "1095",
+				"residentialDementia": "1200",
+				"nursing": "1282.6",
+				"nursingDementia": "1387.6"
+			},
+			"respite": {
+				"residential": "1204.5",
+				"residentialDementia": "1320",
+				"nursing": "1410.86",
+				"nursingDementia": "1526.36"
+			}
+		}
+	},
+	"65432230655": {
+		"name": "Chawley Grove",
+		"imagePath": "Hamberley+Care_Chawley+Grove_001.jpeg",
+		"location": "Oxford",
+		"cqcRating": "Good",
+		"pricesFrom": 995,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Oxfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/oxfordshire/vale-of-white-horse-area/oxford/ox2/chawley-grove/",
+		"lat": 51.7361874,
+		"lon": -1.3205638,
+		"pricing": {
+			"permanent": {
+				"residential": "995",
+				"residentialDementia": "1450",
+				"nursing": "1635",
+				"nursingDementia": "1740"
+			},
+			"respite": {
+				"residential": "1375",
+				"residentialDementia": "1595",
+				"nursing": "1798.5",
+				"nursingDementia": "1740"
+			}
+		}
+	},
+	"65432241304": {
+		"name": "Elstow Manor",
+		"imagePath": "Hamberley+Care_Elstow+Manor_001.jpeg",
+		"location": "Bedford",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1100,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Bedfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/bedfordshire/bedford-area/bedford/mk42/elstow-manor/",
+		"lat": 52.1107278,
+		"lon": -0.4635474,
+		"pricing": {
+			"permanent": {
+				"residential": "1100",
+				"residentialDementia": "1200",
+				"nursing": "1287.6",
+				"nursingDementia": "1383.6"
+			},
+			"respite": {
+				"residential": "1210",
+				"residentialDementia": "1320",
+				"nursing": "1416.35",
+				"nursingDementia": "1521.96"
+			}
+		}
+	},
+	"40189": {
+		"name": "Hawthorn Green",
+		"imagePath": "Hamberley+Care_Hawthorn+Green_001.jpeg",
+		"location": "London",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 895,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/tower-hamlets-borough/london-tower-hamlets-borough/e1/hawthorn-green/",
+		"lat": 51.5189403,
+		"lon": -0.0490285,
+		"pricing": {
+			"permanent": {
+				"residential": "895",
+				"residentialDementia": "995",
+				"nursing": "1082.6",
+				"nursingDementia": "1282.2"
+			},
+			"respite": {
+				"residential": "984.5",
+				"residentialDementia": "1094.5",
+				"nursing": "1190.86",
+				"nursingDementia": "1410.42"
+			}
+		}
+	},
+	"65432230658": {
+		"name": "Nesbit House",
+		"imagePath": "Hamberley+Care_Nesbit+House_001.jpeg",
+		"location": "Sevenoaks",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 995,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/sevenoaks-area/sevenoaks/tn14/nesbit-house/",
+		"lat": 51.3360858,
+		"lon": 0.1460591,
+		"pricing": {
+			"permanent": {
+				"residential": "995",
+				"residentialDementia": "1550.85",
+				"nursing": "1550.85",
+				"nursingDementia": "1606.23"
+			},
+			"respite": {
+				"residential": "1384.68",
+				"residentialDementia": "1550.85",
+				"nursing": "1550.85",
+				"nursingDementia": "1606.23"
+			}
+		}
+	},
+	"65432237357": {
+		"name": "Richmond Manor",
+		"imagePath": "Hamberley+Care_Richmond+Manor_001.jpeg",
+		"location": "Bedford",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1370,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Bedfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/bedfordshire/central-bedfordshire-area/bedford-central-bedfordshire-area/mk45/richmond-manor/",
+		"lat": 52.027918,
+		"lon": -0.4951924,
+		"pricing": {
+			"permanent": {
+				"residential": "1370",
+				"residentialDementia": "1470",
+				"nursing": "1557.6",
+				"nursingDementia": "1570"
+			},
+			"respite": {
+				"residential": "1507",
+				"residentialDementia": "1617",
+				"nursing": "1713",
+				"nursingDementia": "1727"
+			}
+		}
+	},
+	"78108": {
+		"name": "Verwood House",
+		"imagePath": "Hamberley+Care_Verwood+House_001.jpeg",
+		"location": "Verwood",
+		"cqcRating": "Good",
+		"pricesFrom": 1150,
+		"greenerChoice": true,
+		"region": "South West England",
+		"county": "Dorset",
+		"listingUrl": "https://lottie.org/care-home/england/south-west-england/dorset/east-dorset-area/verwood/bh31/verwood-house/",
+		"lat": 50.8806045,
+		"lon": -1.8728079,
+		"pricing": {
+			"permanent": {
+				"residential": "1150",
+				"residentialDementia": "1250",
+				"nursing": "1337",
+				"nursingDementia": "1400"
+			},
+			"respite": {
+				"residential": "1150",
+				"residentialDementia": "1250",
+				"nursing": "1337",
+				"nursingDementia": "1400"
+			}
+		}
+	},
+	"18066": {
+		"name": "Burnham Lodge",
+		"imagePath": "Hartford+Care_Burnham+Lodge_001.jpeg",
+		"location": "Slough",
+		"cqcRating": "Good",
+		"pricesFrom": 1200,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Buckinghamshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/buckinghamshire/south-buckinghamshire-area/slough/sl1/burnham-lodge/",
+		"lat": 51.5487173,
+		"lon": -0.6768607,
+		"pricing": {
+			"permanent": {
+				"residential": "1200",
+				"residentialDementia": "1300",
+				"nursing": "1300",
+				"nursingDementia": "1350"
+			},
+			"respite": {
+				"residential": "1200",
+				"residentialDementia": "1300",
+				"nursing": "1300",
+				"nursingDementia": "1350"
+			}
+		}
+	},
+	"65432214508": {
+		"name": "Hartford Court",
+		"imagePath": "Hartford+Care_Hartford+Court_001.jpg",
+		"location": "Portsmouth",
+		"cqcRating": "Good",
+		"pricesFrom": 1100,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/portsmouth-area/portsmouth/po3/hartford-court/",
+		"lat": 50.8004061,
+		"lon": -1.0646073,
+		"pricing": {
+			"permanent": {
+				"residential": "1100",
+				"residentialDementia": "1200",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1100",
+				"residentialDementia": "1200",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"81132": {
+		"name": "West Cliff Hall",
+		"imagePath": "Hartford+Care_West+Cliff+Hall_001.jpeg",
+		"location": "Southampton",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 1100,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/new-forest-area/southampton-new-forest-area/so45/west-cliff-hall/",
+		"lat": 50.8722226,
+		"lon": -1.4063972,
+		"pricing": {
+			"permanent": {
+				"residential": "1100",
+				"residentialDementia": "1200",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1100",
+				"residentialDementia": "1200",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"10486": {
+		"name": "Woodlands House",
+		"imagePath": "Hartford+Care_Woodlands+House_001.jpeg",
+		"location": "Southampton",
+		"cqcRating": "Good",
+		"pricesFrom": 1200,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/new-forest-area/southampton-new-forest-area/so40/woodlands-house/",
+		"lat": 50.9034162,
+		"lon": -1.5438776,
+		"pricing": {
+			"permanent": {
+				"residential": "1200",
+				"residentialDementia": "1300",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1200",
+				"residentialDementia": "1300",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432224683": {
+		"name": "Layston Grove",
+		"imagePath": "Oakdale+Care_Laystone+Grove_001.jpeg",
+		"location": "Buntingford",
+		"cqcRating": "Good",
+		"pricesFrom": 1285,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Hertfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/hertfordshire/hertsmere-area/buntingford/sg9/layston-grove/",
+		"lat": 51.9371591,
+		"lon": -0.010686,
+		"pricing": {
+			"permanent": {
+				"residential": "1285",
+				"residentialDementia": "1285",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1285",
+				"residentialDementia": "1285",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432228009": {
+		"name": "Beechwood Grove",
+		"imagePath": "Oakland+Care_Beechwood+Grove_001.jpeg",
+		"location": "Eastbourne",
+		"cqcRating": "Good",
+		"pricesFrom": 1211,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/eastbourne-area/eastbourne/bn20/beechwood-grove/",
+		"lat": 50.7707048,
+		"lon": 0.2571154,
+		"pricing": {
+			"permanent": {
+				"residential": "1211",
+				"residentialDementia": "1413",
+				"nursing": "1353",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1421",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432238677": {
+		"name": "Elmbrook Court",
+		"imagePath": "Oakland+Care_Elmbrook+Court_001.jpeg",
+		"location": "Wantage",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1350,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Oxfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/oxfordshire/vale-of-white-horse-area/wantage/ox12/elmbrook-court/",
+		"lat": 51.5948607,
+		"lon": -1.421881,
+		"pricing": {
+			"permanent": {
+				"residential": "1350",
+				"residentialDementia": "1450",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1350",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432238676": {
+		"name": "Elsyng House",
+		"imagePath": "Oakland+Care_Elsyng+House_001.jpeg",
+		"location": "Enfield",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1400,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/enfield-borough/enfield/en2/elsyng-house/",
+		"lat": 51.666747,
+		"lon": -0.0710719,
+		"pricing": {
+			"permanent": {
+				"residential": "1400",
+				"residentialDementia": "1475",
+				"nursing": "1550",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1400",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"17320": {
+		"name": "Hastings Court",
+		"imagePath": "Oakland+Care_Hastings+Court_001.jpeg",
+		"location": "Hastings",
+		"cqcRating": "Good",
+		"pricesFrom": 1250,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/hastings-area/hastings-hastings-area/tn34/hastings-court/",
+		"lat": 50.8816228,
+		"lon": 0.5858713,
+		"pricing": {
+			"permanent": {
+				"residential": "1250",
+				"residentialDementia": "1275",
+				"nursing": "1275",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1253",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432235269": {
+		"name": "Lambwood Heights",
+		"imagePath": "Oakland+Care_Lambwood+Heights_001.jpeg",
+		"location": "Chigwell",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1372,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Essex",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/essex/epping-forest-area/chigwell/ig7/lambwood-heights/",
+		"lat": 51.6143838,
+		"lon": 0.1032466,
+		"pricing": {
+			"permanent": {
+				"residential": "1372",
+				"residentialDementia": "1463",
+				"nursing": "1652",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1547",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432202752": {
+		"name": "Woodland Grove",
+		"imagePath": "Oakland+Care_Woodland+Grove_001.jpeg",
+		"location": "Loughton",
+		"cqcRating": "Good",
+		"pricesFrom": 1343,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Essex",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/essex/epping-forest-area/loughton/ig10/woodland-grove/",
+		"lat": 51.649044,
+		"lon": 0.0778762,
+		"pricing": {
+			"permanent": {
+				"residential": "1353",
+				"residentialDementia": "1343",
+				"nursing": "1413",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1498",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432213525": {
+		"name": "Ascot Grange",
+		"imagePath": "Signature_Ascot+Grange_001.jpeg",
+		"location": "Ascot",
+		"cqcRating": "Good",
+		"pricesFrom": 1300,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Berkshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/berkshire/windsor-maidenhead-area/ascot/sl5/ascot-grange/",
+		"lat": 51.3953297,
+		"lon": -0.659557,
+		"pricing": {
+			"permanent": {
+				"residential": "1300",
+				"residentialDementia": "1550",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1300",
+				"residentialDementia": "1550",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432202128": {
+		"name": "Bentley House",
+		"imagePath": "Signature_Bentley+House_001.jpeg",
+		"location": "Hertford",
+		"cqcRating": "Good",
+		"pricesFrom": 1150,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Hertfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/hertfordshire/east-hertfordshire-area/hertford/sg13/bentley-house/",
+		"lat": 51.7931864,
+		"lon": -0.0812395,
+		"pricing": {
+			"permanent": {
+				"residential": "1150",
+				"residentialDementia": "1575",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1150",
+				"residentialDementia": "1575",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432202125": {
+		"name": "Cliveden Manor",
+		"imagePath": "Signature_Cliveden+Manor_001.jpeg",
+		"location": "Marlow",
+		"cqcRating": "Good",
+		"pricesFrom": 1310,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Buckinghamshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/buckinghamshire/wycombe-area/marlow/sl7/cliveden-manor/",
+		"lat": 51.5799315,
+		"lon": -0.7611477,
+		"pricing": {
+			"permanent": {
+				"residential": "1310",
+				"residentialDementia": "1695",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1310",
+				"residentialDementia": "1695",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432202129": {
+		"name": "Coombe Hill Manor",
+		"imagePath": "Signature_Coombe+Hill+Manor_001.jpeg",
+		"location": "Kingston upon Thames",
+		"cqcRating": "Outstanding",
+		"pricesFrom": 1570,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/kingston-upon-thames-borough/kingston-upon-thames/kt2/coombe-hill-manor/",
+		"lat": 51.415608,
+		"lon": -0.253392,
+		"pricing": {
+			"permanent": {
+				"residential": "1570",
+				"residentialDementia": "1855",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1570",
+				"residentialDementia": "1855",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432225272": {
+		"name": "Elton House",
+		"imagePath": "Signature_Elton+House_001.jpeg",
+		"location": "Watford",
+		"cqcRating": "Good",
+		"pricesFrom": 1440,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Hertfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/hertfordshire/hertsmere-area/watford/wd25/elton-house/",
+		"lat": 51.6653385,
+		"lon": -0.3605835,
+		"pricing": {
+			"permanent": {
+				"residential": "1440",
+				"residentialDementia": "1665",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1440",
+				"residentialDementia": "1665",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"81572": {
+		"name": "Moorlands Lodge",
+		"imagePath": "Signature_Moorlands+Lodge_001.jpeg",
+		"location": "Hindhead",
+		"cqcRating": "Good",
+		"pricesFrom": 1290,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/waverley-area/hindhead/gu26/moorlands-lodge/",
+		"lat": 51.1120135,
+		"lon": -0.7373828,
+		"pricing": {
+			"permanent": {
+				"residential": "1290",
+				"residentialDementia": "1700",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1290",
+				"residentialDementia": "1700",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432213524": {
+		"name": "Parklands Manor",
+		"imagePath": "Signature_Parklands+Manor_001.jpeg",
+		"location": "Chertsey",
+		"cqcRating": "Good",
+		"pricesFrom": 1230,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/runnymede-area/chertsey/kt16/parklands-manor/",
+		"lat": 51.3735284,
+		"lon": -0.5231419,
+		"pricing": {
+			"permanent": {
+				"residential": "1230",
+				"residentialDementia": "1575",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1230",
+				"residentialDementia": "1575",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432212005": {
+		"name": "Pembroke House",
+		"imagePath": "Signature_Pembroke+House_001.jpeg",
+		"location": "Camberley",
+		"cqcRating": "Good",
+		"pricesFrom": 1220,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/surrey-heath-area/camberley/gu15/pembroke-house/",
+		"lat": 51.3362987,
+		"lon": -0.7451165,
+		"pricing": {
+			"permanent": {
+				"residential": "1220",
+				"residentialDementia": "1535",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1220",
+				"residentialDementia": "1535",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432212002": {
+		"name": "Reigate Grange",
+		"imagePath": "Signature_Reigate+Grange_001.jpeg",
+		"location": "Reigate",
+		"cqcRating": "Good",
+		"pricesFrom": 1480,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/reigate-banstead-area/reigate/rh2/reigate-grange/",
+		"lat": 51.2404311,
+		"lon": -0.2182286,
+		"pricing": {
+			"permanent": {
+				"residential": "1480",
+				"residentialDementia": "1720",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1480",
+				"residentialDementia": "1720",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432202130": {
+		"name": "Rosebery Manor",
+		"imagePath": "Signature_Roseberry+Manor_001.jpeg",
+		"location": "Epsom",
+		"cqcRating": "Good",
+		"pricesFrom": 1375,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/reigate-banstead-area/epsom/kt18/rosebery-manor/",
+		"lat": 51.3140351,
+		"lon": -0.2270157,
+		"pricing": {
+			"permanent": {
+				"residential": "1375",
+				"residentialDementia": "1625",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1375",
+				"residentialDementia": "1625",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432240773": {
+		"name": "Signature at Barnet",
+		"imagePath": "Signature_Signature+at+Barnet_001.jpeg",
+		"location": "Barnet",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1635,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/barnet-borough/barnet/en5/signature-at-barnet/",
+		"lat": 51.6527145,
+		"lon": -0.2040018,
+		"pricing": {
+			"permanent": {
+				"residential": "1635",
+				"residentialDementia": "1950",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1635",
+				"residentialDementia": "1950",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432240772": {
+		"name": "Signature at Beckenham",
+		"imagePath": "Signature_Signature+at+Beckenham_001.jpeg",
+		"location": "Beckenham",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1635,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/bromley-borough/beckenham/br3/signature-at-beckenham/",
+		"lat": 51.3965217,
+		"lon": -0.0211929,
+		"pricing": {
+			"permanent": {
+				"residential": "1635",
+				"residentialDementia": "1950",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1635",
+				"residentialDementia": "1950",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432240774": {
+		"name": "Signature at Hendon Hall",
+		"imagePath": "Signature_Signature+at+Hendon+Hall_001.jpeg",
+		"location": "London",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1635,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/barnet-borough/london-barnet-borough/nw4/signature-at-hendon-hall/",
+		"lat": 51.5936993,
+		"lon": -0.2181107,
+		"pricing": {
+			"permanent": {
+				"residential": "1635",
+				"residentialDementia": "1950",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1635",
+				"residentialDementia": "1950",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432225280": {
+		"name": "Signature at Wandsworth Common",
+		"imagePath": "Signature_Signature+at+Wandsworth+Common_001.jpeg",
+		"location": "London",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1635,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/wandsworth-borough/london-wandsworth-borough/sw18/signature-at-wandsworth-common/",
+		"lat": 51.4583537,
+		"lon": -0.1826078,
+		"pricing": {
+			"permanent": {
+				"residential": "1635",
+				"residentialDementia": "1950",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1635",
+				"residentialDementia": "1950",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"65432216039": {
+		"name": "Signature at Wimbledon",
+		"imagePath": "Signature_Signature+at+Wimbledon_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1495,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/wandsworth-borough/london-wandsworth-borough/sw19-london-wandsworth-borough/signature-at-wimbledon/",
+		"lat": 51.4483093,
+		"lon": -0.2213606,
+		"pricing": {
+			"permanent": {
+				"residential": "1495",
+				"residentialDementia": "1600",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1495",
+				"residentialDementia": "1600",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"86276": {
+		"name": "The Beeches",
+		"imagePath": "Signature_The+Beeches_001.jpeg",
+		"location": "Brentwood",
+		"cqcRating": "Good",
+		"pricesFrom": 1320,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Essex",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/essex/brentwood-area/brentwood/cm14/the-beeches/",
+		"lat": 51.6175024,
+		"lon": 0.2926016,
+		"pricing": {
+			"permanent": {
+				"residential": "1320",
+				"residentialDementia": "1590",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1320",
+				"residentialDementia": "1590",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"53754": {
+		"name": "Alfriston Court Care Home",
+		"imagePath": "Chanctonbury+Healthcare_Alfriston+Court_001.jpeg",
+		"location": "Polegate",
+		"cqcRating": "Good",
+		"pricesFrom": 1000,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/wealden-area/polegate/bn26/alfriston-court/",
+		"lat": 50.8103397,
+		"lon": 0.1564084,
+		"pricing": {
+			"permanent": {
+				"residential": "1000",
+				"residentialDementia": "N/A",
+				"nursing": "1250",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1000",
+				"residentialDementia": "N/A",
+				"nursing": "1250",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"29411": {
+		"name": "Oaklands Court",
+		"imagePath": "Chanctonbury+Healthcare_Oaklands+Court_001.jpeg",
+		"location": "Heathfield",
+		"cqcRating": "Good",
+		"pricesFrom": 1000,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/wealden-area/heathfield/tn21/oaklands-court/",
+		"lat": 50.9354504,
+		"lon": 0.2485014,
+		"pricing": {
+			"permanent": {
+				"residential": "1000",
+				"residentialDementia": "N/A",
+				"nursing": "1100",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1000",
+				"residentialDementia": "N/A",
+				"nursing": "1100",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"17210": {
+		"name": "The Queensmead",
+		"imagePath": "Chanctonbury+Healthcare_The+Queensmead_001.jpeg",
+		"location": "Polegate",
+		"cqcRating": "Good",
+		"pricesFrom": 950,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/wealden-area/polegate/bn26/the-queensmead/",
+		"lat": 50.8244603,
+		"lon": 0.2413329,
+		"pricing": {
+			"permanent": {
+				"residential": "950",
+				"residentialDementia": "N/A",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "950",
+				"residentialDementia": "N/A",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432208738": {
+		"name": "Abbotswood Court Care Home",
+		"imagePath": "Cinnamon+Care_Abbotswood+Court_001.jpeg",
+		"location": "Romsey",
+		"cqcRating": "Good",
+		"pricesFrom": 1400,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/test-valley-area/romsey/so51/abbotswood-court/",
+		"lat": 51.0036394,
+		"lon": -1.4758672,
+		"pricing": {
+			"permanent": {
+				"residential": "1400",
+				"residentialDementia": "1400",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1500",
+				"residentialDementia": "1500",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432234663": {
+		"name": "Earlsfield Court",
+		"imagePath": "Cinnamon+Care_Earlsfield+Court_001.jpeg",
+		"location": "Bexhill-on-Sea",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1300,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/eastbourne-area/bexhill-on-sea/tn39/earlsfield-court/",
+		"lat": 50.8466719,
+		"lon": 0.4245527,
+		"pricing": {
+			"permanent": {
+				"residential": "1300",
+				"residentialDementia": "1300",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1400",
+				"residentialDementia": "1400",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432233094": {
+		"name": "Eden Court",
+		"imagePath": "Cinnamon+Care_Eden+Court_001.jpeg",
+		"location": "London",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1955,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/wandsworth-borough/london-wandsworth-borough/sw11/eden-court/",
+		"lat": 51.474155,
+		"lon": -0.155038,
+		"pricing": {
+			"permanent": {
+				"residential": "1994",
+				"residentialDementia": "1955",
+				"nursing": "2125",
+				"nursingDementia": "2164"
+			},
+			"respite": {
+				"residential": "2094",
+				"residentialDementia": "2095",
+				"nursing": "2225",
+				"nursingDementia": "2264"
+			}
+		}
+	},
+	"65432221216": {
+		"name": "Emerson Grange Care Home",
+		"imagePath": "Cinnamon+Care_Emerson+Grange_001.jpeg",
+		"location": "Swanley",
+		"cqcRating": "Good",
+		"pricesFrom": 1388,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/sevenoaks-area/swanley/br8/emerson-grange/",
+		"lat": 51.4132425,
+		"lon": 0.1808338,
+		"pricing": {
+			"permanent": {
+				"residential": "1388",
+				"residentialDementia": "1388",
+				"nursing": "1442",
+				"nursingDementia": "1442"
+			},
+			"respite": {
+				"residential": "1488",
+				"residentialDementia": "1488",
+				"nursing": "1542",
+				"nursingDementia": "1542"
+			}
+		}
+	},
+	"85066": {
+		"name": "Hartwood House Care Home",
+		"imagePath": "Cinnamon+Care_Hartwood+House_001.jpeg",
+		"location": "Lyndhurst",
+		"cqcRating": "Good",
+		"pricesFrom": 1425,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/new-forest-area/lyndhurst/so43/hartwood-house/",
+		"lat": 50.8713012,
+		"lon": -1.5815682,
+		"pricing": {
+			"permanent": {
+				"residential": "1425",
+				"residentialDementia": "1440",
+				"nursing": "1625",
+				"nursingDementia": "1640"
+			},
+			"respite": {
+				"residential": "1525",
+				"residentialDementia": "1540",
+				"nursing": "1725",
+				"nursingDementia": "1740"
+			}
+		}
+	},
+	"65432217892": {
+		"name": "Leah Lodge Care Home",
+		"imagePath": "Cinnamon+Care_Leah+Lodge_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1395,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/lewisham-borough/london-lewisham-borough/se13/leah-lodge/",
+		"lat": 51.4612246,
+		"lon": -0.0004732,
+		"pricing": {
+			"permanent": {
+				"residential": "1395",
+				"residentialDementia": "1395",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1495",
+				"residentialDementia": "1495",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432236506": {
+		"name": "Mornington Court",
+		"imagePath": "Cinnamon+Care_Mornington+Court_001.jpeg",
+		"location": "New Milton",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1200,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/new-forest-area/new-milton/bh25/mornington-court/",
+		"lat": 50.7603293,
+		"lon": -1.6521435,
+		"pricing": {
+			"permanent": {
+				"residential": "1200",
+				"residentialDementia": "1400",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1400",
+				"residentialDementia": "1500",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432207036": {
+		"name": "Netley Court Care Home",
+		"imagePath": "Cinnamon+Care_Netley+Court_001.jpeg",
+		"location": "Southampton",
+		"cqcRating": "Outstanding",
+		"pricesFrom": 1400,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/eastleigh-area/southampton-eastleigh-area/so31-southampton-eastleigh-area/netley-court/",
+		"lat": 50.8729699,
+		"lon": -1.3541996,
+		"pricing": {
+			"permanent": {
+				"residential": "1400",
+				"residentialDementia": "1400",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1575",
+				"residentialDementia": "1575",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432223547": {
+		"name": "Rectory Court Care Home",
+		"imagePath": "Cinnamon+Care_Rectory+Court_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1450,
+		"greenerChoice": false,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/lewisham-borough/london-lewisham-borough/se3/rectory-court/",
+		"lat": 51.4637781,
+		"lon": 0.0027192,
+		"pricing": {
+			"permanent": {
+				"residential": "1450",
+				"residentialDementia": "1450",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1550",
+				"residentialDementia": "1550",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432233093": {
+		"name": "Rivermede Court Care Home",
+		"imagePath": "Cinnamon+Care_Rivermede+Court_001.jpeg",
+		"location": "Egham",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1260,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/runnymede-area/egham/tw20/rivermede-court/",
+		"lat": 51.4348948,
+		"lon": -0.5391332,
+		"pricing": {
+			"permanent": {
+				"residential": "1260",
+				"residentialDementia": "1260",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1360",
+				"residentialDementia": "1360",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432234662": {
+		"name": "Rokewood Court",
+		"imagePath": "Cinnamon+Care_Rokewood+Court_001.jpeg",
+		"location": "Kenley",
+		"cqcRating": "Not Yet Rated",
+		"pricesFrom": 1295,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/croydon-borough/kenley/cr8/rokewood-court/",
+		"lat": 51.3240053,
+		"lon": -0.1067294,
+		"pricing": {
+			"permanent": {
+				"residential": "1295",
+				"residentialDementia": "1550",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1395",
+				"residentialDementia": "1650",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432203535": {
+		"name": "Sunnybank House Care Home",
+		"imagePath": "Cinnamon+Care_Sunnybank+House_001.jpeg",
+		"location": "Eastleigh",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 1325,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/eastleigh-area/eastleigh/so50/sunnybank-house/",
+		"lat": 50.9590191,
+		"lon": -1.2947285,
+		"pricing": {
+			"permanent": {
+				"residential": "1325",
+				"residentialDementia": "1375",
+				"nursing": "1525",
+				"nursingDementia": "1525"
+			},
+			"respite": {
+				"residential": "1425",
+				"residentialDementia": "1475",
+				"nursing": "1625",
+				"nursingDementia": "1675"
+			}
+		}
+	},
+	"65432217260": {
+		"name": "Wellington Vale Care Home",
+		"imagePath": "Cinnamon+Care_Wellington+Vale_001.jpeg",
+		"location": "Waterlooville",
+		"cqcRating": "Good",
+		"pricesFrom": 1375,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/winchester-area/waterlooville/po7/wellington-vale/",
+		"lat": 50.8899496,
+		"lon": -1.0491223,
+		"pricing": {
+			"permanent": {
+				"residential": "1375",
+				"residentialDementia": "1400",
+				"nursing": "1540",
+				"nursingDementia": "1540"
+			},
+			"respite": {
+				"residential": "1475",
+				"residentialDementia": "1500",
+				"nursing": "1640",
+				"nursingDementia": "1640"
+			}
+		}
+	},
+	"50927": {
+		"name": "Brendoncare Alton",
+		"imagePath": "Brendoncare_Alton_001.jpg",
+		"location": "Alton",
+		"cqcRating": "Good",
+		"pricesFrom": 1310,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/east-hampshire-area/alton/gu34/brendoncare-alton/",
+		"lat": 51.1543356,
+		"lon": -0.9655866,
+		"pricing": {
+			"permanent": {
+				"residential": "N/A",
+				"residentialDementia": "1310",
+				"nursing": "1330",
+				"nursingDementia": "1570"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "1380",
+				"nursing": "1400",
+				"nursingDementia": "1640"
+			}
+		}
+	},
+	"12738": {
+		"name": "Brendoncare Froxfield",
+		"imagePath": "Brendoncare_Froxfield_001.jpg",
+		"location": "Marlborough",
+		"cqcRating": "Good",
+		"pricesFrom": 1200,
+		"greenerChoice": false,
+		"region": "South West England",
+		"county": "Wiltshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-west-england/wiltshire/wiltshire-area/marlborough/sn8/brendoncare-froxfield/",
+		"lat": 51.4109901,
+		"lon": -1.5730772,
+		"pricing": {
+			"permanent": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1200",
+				"nursingDementia": "1540"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1270",
+				"nursingDementia": "1610"
+			}
+		}
+	},
+	"52073": {
+		"name": "Brendoncare Knightwood",
+		"imagePath": "Brendoncare_Knightwood+Court_001.jpg",
+		"location": "Eastleigh",
+		"cqcRating": "Good",
+		"pricesFrom": 1150,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/test-valley-area/eastleigh-test-valley-area/so53/brendoncare-knightwood/",
+		"lat": 50.9853712,
+		"lon": -1.3984438,
+		"pricing": {
+			"permanent": {
+				"residential": "1150",
+				"residentialDementia": "N/A",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1220",
+				"residentialDementia": "N/A",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"12295": {
+		"name": "Brendoncare Meadway",
+		"imagePath": "Brendoncare_Meadway_001.jpg",
+		"location": "Winchester",
+		"cqcRating": "Good",
+		"pricesFrom": 1150,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/winchester-area/winchester/so23/brendoncare-meadway/",
+		"lat": 51.0483845,
+		"lon": -1.3248001,
+		"pricing": {
+			"permanent": {
+				"residential": "1150",
+				"residentialDementia": "N/A",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1220",
+				"residentialDementia": "N/A",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432229151": {
+		"name": "Brendoncare Otterbourne Hill",
+		"imagePath": "Brendoncare_Otterbourne+Hill_001.jpg",
+		"location": "Winchester",
+		"cqcRating": "Good",
+		"pricesFrom": 1270,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/winchester-area/winchester/so21/brendoncare-otterbourne-hill/",
+		"lat": 50.9974692,
+		"lon": -1.3551517,
+		"pricing": {
+			"permanent": {
+				"residential": "N/A",
+				"residentialDementia": "1270",
+				"nursing": "1400",
+				"nursingDementia": "1570"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "1340",
+				"nursing": "1470",
+				"nursingDementia": "1640"
+			}
+		}
+	},
+	"13105": {
+		"name": "Brendoncare Park Road",
+		"imagePath": "Brendoncare_Park+Road_001.jpg",
+		"location": "Winchester",
+		"cqcRating": "Good",
+		"pricesFrom": 1150,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/winchester-area/winchester/so23/brendoncare-park-road/",
+		"lat": 51.0748273,
+		"lon": -1.3148224,
+		"pricing": {
+			"permanent": {
+				"residential": "1150",
+				"residentialDementia": "N/A",
+				"nursing": "1290",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1220",
+				"residentialDementia": "N/A",
+				"nursing": "1360",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"18111": {
+		"name": "Brendoncare Ronald Gibson House",
+		"imagePath": "Brendoncare_Robert+Gibson+House_001.jpg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1360,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/wandsworth-borough/london-wandsworth-borough/sw17/brendoncare-ronald-gibson-house/",
+		"lat": 51.4400087,
+		"lon": -0.1762564,
+		"pricing": {
+			"permanent": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1360",
+				"nursingDementia": "1640"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1430",
+				"nursingDementia": "1710"
+			}
+		}
+	},
+	"7875": {
+		"name": "Brendoncare Stildon",
+		"imagePath": "Brendoncare_Stildon_001.jpg",
+		"location": "East Grinstead",
+		"cqcRating": "Good",
+		"pricesFrom": 1355,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "West Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/west-sussex/mid-sussex-area/east-grinstead/rh19/brendoncare-stildon/",
+		"lat": 51.1340612,
+		"lon": -0.0240138,
+		"pricing": {
+			"permanent": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1355",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1425",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"41665": {
+		"name": "Abbotts Barton",
+		"imagePath": "Colten+Care_Abbotts+Barton_001.jpeg",
+		"location": "Winchester",
+		"cqcRating": "Good",
+		"pricesFrom": 1210,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/winchester-area/winchester/so23/abbotts-barton/",
+		"lat": 51.0767193,
+		"lon": -1.3093129,
+		"pricing": {
+			"permanent": {
+				"residential": "1210",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1210",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"32521": {
+		"name": "Avon Cliff",
+		"imagePath": "Colten+Care_Avon+Cliff_001.jpeg",
+		"location": "Bournemouth",
+		"cqcRating": "Good",
+		"pricesFrom": 1075,
+		"greenerChoice": true,
+		"region": "South West England",
+		"county": "Dorset",
+		"listingUrl": "https://lottie.org/care-home/england/south-west-england/dorset/bournemouth-area/bournemouth/bh1/avon-cliff/",
+		"lat": 50.7230264,
+		"lon": -1.8582452,
+		"pricing": {
+			"permanent": {
+				"residential": "1075",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1075",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"23676": {
+		"name": "Avon Reach",
+		"imagePath": "Colten+Care_Avon+Reach_001.jpeg",
+		"location": "Christchurch",
+		"cqcRating": "Good",
+		"pricesFrom": 1100,
+		"greenerChoice": true,
+		"region": "South West England",
+		"county": "Dorset",
+		"listingUrl": "https://lottie.org/care-home/england/south-west-england/dorset/christchurch-area/christchurch/bh23/avon-reach/",
+		"lat": 50.7291966,
+		"lon": -1.7425993,
+		"pricing": {
+			"permanent": {
+				"residential": "1100",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1100",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"44251": {
+		"name": "Belmore Lodge",
+		"imagePath": "Colten+Care_Belmore+Lodge_001.jpeg",
+		"location": "Lymington",
+		"cqcRating": "Good",
+		"pricesFrom": 1090,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/new-forest-area/lymington/so41/belmore-lodge/",
+		"lat": 50.7505477,
+		"lon": -1.55496,
+		"pricing": {
+			"permanent": {
+				"residential": "1090",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "1090",
+				"residentialDementia": "Subject to Care Needs",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"44250": {
+		"name": "The Aldbury",
+		"imagePath": "Colten+Care_The+Aldbury_001.jpeg",
+		"location": "Poole",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 1385,
+		"greenerChoice": true,
+		"region": "South West England",
+		"county": "Dorset",
+		"listingUrl": "https://lottie.org/care-home/england/south-west-england/dorset/poole-area/poole/bh12/the-aldbury/",
+		"lat": 50.7481693,
+		"lon": -1.9405783,
+		"pricing": {
+			"permanent": {
+				"residential": "N/A",
+				"residentialDementia": "1385",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "1385",
+				"nursing": "Subject to Care Needs",
+				"nursingDementia": "Subject to Care Needs"
+			}
+		}
+	},
+	"78188": {
+		"name": "Avondale Care Home",
+		"imagePath": "Porthaven_Avondale_001.jpg",
+		"location": "Aylesbury",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 1370,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Buckinghamshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/buckinghamshire/aylesbury-vale-area/aylesbury/hp19/avondale/",
+		"lat": 51.8185484,
+		"lon": -0.8208414,
+		"pricing": {
+			"permanent": {
+				"residential": "1370",
+				"residentialDementia": "1515",
+				"nursing": "1632.4",
+				"nursingDementia": "1687"
+			},
+			"respite": {
+				"residential": "1644",
+				"residentialDementia": "1818",
+				"nursing": "1958.88",
+				"nursingDementia": "2024.4"
+			}
+		}
+	},
+	"65432221841": {
+		"name": "Bourne Wood Manor Care Home",
+		"imagePath": "Porthaven_Bourne%2BWood%2BManor_001.jpg",
+		"location": "Farnham",
+		"cqcRating": "Good",
+		"pricesFrom": 1569.4,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/waverley-area/farnham/gu9/bourne-wood-manor/",
+		"lat": 51.2084692,
+		"lon": -0.813873,
+		"pricing": {
+			"permanent": {
+				"residential": "1583",
+				"residentialDementia": "1620",
+				"nursing": "1569.4",
+				"nursingDementia": "1623.4"
+			},
+			"respite": {
+				"residential": "1899.6",
+				"residentialDementia": "1944",
+				"nursing": "1883.28",
+				"nursingDementia": "1948.08"
+			}
+		}
+	},
+	"85033": {
+		"name": "Chiltern Grange Care Home",
+		"imagePath": "Porthaven_Chiltern%2BGrange_001.jpg",
+		"location": "High Wycombe",
+		"cqcRating": "Good",
+		"pricesFrom": 1360,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Buckinghamshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/buckinghamshire/high-wycombe-area/chiltern-grange/",
+		"lat": 51.6580438,
+		"lon": -0.9158305,
+		"pricing": {
+			"permanent": {
+				"residential": "1360",
+				"residentialDementia": "1496",
+				"nursing": "1462.4",
+				"nursingDementia": "1547.4"
+			},
+			"respite": {
+				"residential": "1632",
+				"residentialDementia": "1795.2",
+				"nursing": "1754.88",
+				"nursingDementia": "1856.88"
+			}
+		}
+	},
+	"65432231869": {
+		"name": "Falkland Grange Care Home",
+		"imagePath": "Porthaven_Falkland%2BGrange_001.jpg",
+		"location": "Newbury",
+		"cqcRating": "Good",
+		"pricesFrom": 1360,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Berkshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/berkshire/west-berkshire-area/newbury/falkland-grange/",
+		"lat": 51.3817174,
+		"lon": -1.3361251,
+		"pricing": {
+			"permanent": {
+				"residential": "1360",
+				"residentialDementia": "1435",
+				"nursing": "1377.4",
+				"nursingDementia": "1407.4"
+			},
+			"respite": {
+				"residential": "1632",
+				"residentialDementia": "1722",
+				"nursing": "1652.88",
+				"nursingDementia": "1688.88"
+			}
+		}
+	},
+	"65432226604": {
+		"name": "Hartfield House Care Home",
+		"imagePath": "Porthaven_Hartfield%2BHouse_001.jpg",
+		"location": "Leatherhead",
+		"cqcRating": "Good",
+		"pricesFrom": 1543,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Surrey",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/surrey/mole-valley-area/leatherhead/kt22/hartfield-house/",
+		"lat": 51.302075,
+		"lon": -0.34055,
+		"pricing": {
+			"permanent": {
+				"residential": "1543",
+				"residentialDementia": "1622",
+				"nursing": "1556.4",
+				"nursingDementia": "1619.4"
+			},
+			"respite": {
+				"residential": "1851.6",
+				"residentialDementia": "1946.4",
+				"nursing": "1867.68",
+				"nursingDementia": "1943.28"
+			}
+		}
+	},
+	"65432221150": {
+		"name": "Lavender Oaks Care Home",
+		"imagePath": "Porthaven_Lavender%2BOaks_001.jpg",
+		"location": "Carshalton",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 1547,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/sutton-borough/carshalton/lavender-oaks/",
+		"lat": 51.3450065,
+		"lon": -0.1697633,
+		"pricing": {
+			"permanent": {
+				"residential": "1547",
+				"residentialDementia": "1657",
+				"nursing": "1578.4",
+				"nursingDementia": "1641.4"
+			},
+			"respite": {
+				"residential": "1856.4",
+				"residentialDementia": "1988.4",
+				"nursing": "1894.08",
+				"nursingDementia": "1969.68"
+			}
+		}
+	},
+	"65432221175": {
+		"name": "Lincroft Meadow Care Home",
+		"imagePath": "Porthaven_Lincroft%2BMeadow_001.jpg",
+		"location": "Kidlington",
+		"cqcRating": "Good",
+		"pricesFrom": 1496,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Oxfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/oxfordshire/cherwell-area/kidlington/lincroft-meadow/",
+		"lat": 51.8310453,
+		"lon": -1.2989663,
+		"pricing": {
+			"permanent": {
+				"residential": "1496",
+				"residentialDementia": "1575",
+				"nursing": "1524.4",
+				"nursingDementia": "1571.4"
+			},
+			"respite": {
+				"residential": "1795.2",
+				"residentialDementia": "1890",
+				"nursing": "1829.28",
+				"nursingDementia": "1885.68"
+			}
+		}
+	},
+	"65432210670": {
+		"name": "Penhurst Gardens Care Home",
+		"imagePath": "Porthaven_Penhurst%2BGardens_001.jpg",
+		"location": "Chipping Norton",
+		"cqcRating": "Good",
+		"pricesFrom": 1412.4,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Oxfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/oxfordshire/west-oxfordshire-area/chipping-norton/penhurst-gardens/",
+		"lat": 51.9427189,
+		"lon": -1.5496773,
+		"pricing": {
+			"permanent": {
+				"residential": "1420",
+				"residentialDementia": "1538",
+				"nursing": "1412.4",
+				"nursingDementia": "1502.4"
+			},
+			"respite": {
+				"residential": "1704",
+				"residentialDementia": "1845.6",
+				"nursing": "1694.88",
+				"nursingDementia": "1802.4"
+			}
+		}
+	},
+	"65432222057": {
+		"name": "Tonbridge House Care Home",
+		"imagePath": "Porthaven_Tonbridge%2BHouse_001.jpg",
+		"location": "Tonbridge",
+		"cqcRating": "Good",
+		"pricesFrom": 1456,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/tonbridge-malling-area/tonbridge/tn9/tonbridge-house/",
+		"lat": 51.1888331,
+		"lon": 0.2687849,
+		"pricing": {
+			"permanent": {
+				"residential": "1456",
+				"residentialDementia": "1503",
+				"nursing": "1501.4",
+				"nursingDementia": "1559.4"
+			},
+			"respite": {
+				"residential": "1747.2",
+				"residentialDementia": "1803.6",
+				"nursing": "1801.68",
+				"nursingDementia": "1871.28"
+			}
+		}
+	},
+	"65432210668": {
+		"name": "Woodland Manor Care Home",
+		"imagePath": "Porthaven_Woodland%2BManor_001.jpg",
+		"location": "Gerrards Cross",
+		"cqcRating": "Good",
+		"pricesFrom": 1601,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Buckinghamshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/buckinghamshire/south-buckinghamshire-area/gerrards-cross/woodland-manor/",
+		"lat": 51.6208237,
+		"lon": -0.5512115,
+		"pricing": {
+			"permanent": {
+				"residential": "1601",
+				"residentialDementia": "1738",
+				"nursing": "1697.4",
+				"nursingDementia": "1739.4"
+			},
+			"respite": {
+				"residential": "1921.2",
+				"residentialDementia": "2085.6",
+				"nursing": "2036.88",
+				"nursingDementia": "2087.28"
+			}
+		}
+	},
+	"71431": {
+		"name": "Anjulita Court",
+		"imagePath": "MHA_Anjulita+Court_001.jpeg",
+		"location": "Bedford",
+		"cqcRating": "Good",
+		"pricesFrom": 1083.2,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Bedfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/bedfordshire/bedford-area/bedford/mk41/anjulita-court/",
+		"lat": 52.1689,
+		"lon": -0.462791,
+		"pricing": {
+			"permanent": {
+				"residential": "1083.2",
+				"residentialDementia": "1241.7",
+				"nursing": "1406.75",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1083.2",
+				"residentialDementia": "1241.7",
+				"nursing": "1406.75",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"76206": {
+		"name": "Bradbury Grange",
+		"imagePath": "MHA_Bradbury+Grange_001.jpeg",
+		"location": "Whitstable",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 1028.55,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Kent",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/kent/canterbury-area/whitstable/ct5/bradbury-grange/",
+		"lat": 51.3515,
+		"lon": 1.02266,
+		"pricing": {
+			"permanent": {
+				"residential": "1028.55",
+				"residentialDementia": "1108.34",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1028.55",
+				"residentialDementia": "1108.34",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"34775": {
+		"name": "Brookfield Care Home",
+		"imagePath": "MHA_Brookfield_001.jpeg",
+		"location": "Oxford",
+		"cqcRating": "Good",
+		"pricesFrom": 1285.3,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Oxfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/oxfordshire/oxford-area/oxford-oxford-area/ox4/brookfield/",
+		"lat": 51.7185,
+		"lon": -1.18833,
+		"pricing": {
+			"permanent": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1285.3",
+				"nursingDementia": "1353.84"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1285.3",
+				"nursingDementia": "1353.84"
+			}
+		}
+	},
+	"9398": {
+		"name": "David's House",
+		"imagePath": "MHA_Davids+House_001.jpeg",
+		"location": "Harrow",
+		"cqcRating": "Good",
+		"pricesFrom": 1160.81,
+		"greenerChoice": false,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/harrow-borough/harrow/ha1/davids-house/",
+		"lat": 51.5752,
+		"lon": -0.345776,
+		"pricing": {
+			"permanent": {
+				"residential": "1160.81",
+				"residentialDementia": "1313.83",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1160.81",
+				"residentialDementia": "1313.83",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"876": {
+		"name": "Elmside",
+		"imagePath": "MHA_Elmside_001.jpeg",
+		"location": "Hitchin",
+		"cqcRating": "Good",
+		"pricesFrom": 988.1,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Hertfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/hertfordshire/north-hertfordshire-area/hitchin/sg5/elmside/",
+		"lat": 51.9508,
+		"lon": -0.280331,
+		"pricing": {
+			"permanent": {
+				"residential": "988.1",
+				"residentialDementia": "1175.02",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "988.1",
+				"residentialDementia": "1175.02",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"47039": {
+		"name": "Fitzwarren House",
+		"imagePath": "MHA_Fitzwarren+House_001.jpeg",
+		"location": "Swindon",
+		"cqcRating": "Good",
+		"pricesFrom": 1153.16,
+		"greenerChoice": true,
+		"region": "South West England",
+		"county": "Wiltshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-west-england/wiltshire/swindon-area/swindon/sn3/fitzwarren-house/",
+		"lat": 51.5998,
+		"lon": -1.74595,
+		"pricing": {
+			"permanent": {
+				"residential": "N/A",
+				"residentialDementia": "1153.16",
+				"nursing": "1378.32",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "1153.16",
+				"nursing": "1378.32",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"7503": {
+		"name": "Greenways",
+		"imagePath": "MHA_Greenways_001.jpeg",
+		"location": "Bognor Regis",
+		"cqcRating": "Good",
+		"pricesFrom": 841.64,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "West Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/west-sussex/arun-area/bognor-regis/po21/greenways/",
+		"lat": 50.7867,
+		"lon": -0.693562,
+		"pricing": {
+			"permanent": {
+				"residential": "841.64",
+				"residentialDementia": "1028.55",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "841.64",
+				"residentialDementia": "1028.55",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"9635": {
+		"name": "Hall Grange",
+		"imagePath": "MHA_Hall+Grange_001.jpeg",
+		"location": "Croydon",
+		"cqcRating": "Good",
+		"pricesFrom": 1215.46,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/croydon-borough/croydon/cr9/hall-grange/",
+		"lat": 51.3714,
+		"lon": -0.052563,
+		"pricing": {
+			"permanent": {
+				"residential": "1215.46",
+				"residentialDementia": "1255.9",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1215.46",
+				"residentialDementia": "1255.9",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"12863": {
+		"name": "Hampton Lodge",
+		"imagePath": "MHA_Hampton+Lodge_001.jpeg",
+		"location": "Southampton",
+		"cqcRating": "Good",
+		"pricesFrom": 911.59,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Hampshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/hampshire/southampton-area/southampton-southampton-area/so15/hampton-lodge/",
+		"lat": 50.9125,
+		"lon": -1.41529,
+		"pricing": {
+			"permanent": {
+				"residential": "911.59",
+				"residentialDementia": "1105.06",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "911.59",
+				"residentialDementia": "1105.06",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"41885": {
+		"name": "Hillside Nursing Home",
+		"imagePath": "MHA_Hillside_001.jpeg",
+		"location": "Aylesbury",
+		"cqcRating": "Good",
+		"pricesFrom": 1458.43,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Buckinghamshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/buckinghamshire/aylesbury-vale-area/aylesbury/hp19/hillside/",
+		"lat": 51.8204,
+		"lon": -0.816976,
+		"pricing": {
+			"permanent": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1458.43",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1458.43",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"32623": {
+		"name": "Kenbrook",
+		"imagePath": "MHA_Kenbrook_001.jpeg",
+		"location": "Wembley",
+		"cqcRating": "Good",
+		"pricesFrom": 1288.7,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/brent-borough/wembley/ha9/kenbrook/",
+		"lat": 51.5656,
+		"lon": -0.281946,
+		"pricing": {
+			"permanent": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1288.7",
+				"nursingDementia": "1353.19"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "N/A",
+				"nursing": "1288.7",
+				"nursingDementia": "1353.19"
+			}
+		}
+	},
+	"29416": {
+		"name": "Lauriston",
+		"imagePath": "MHA_Lauriston_001.jpeg",
+		"location": "St Leonards-on-Sea",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 847.1,
+		"greenerChoice": false,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/hastings-area/st-leonards-on-sea/tn38/lauriston/",
+		"lat": 50.8625,
+		"lon": 0.550478,
+		"pricing": {
+			"permanent": {
+				"residential": "847.1",
+				"residentialDementia": "1016.53",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "847.1",
+				"residentialDementia": "1016.53",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"42707": {
+		"name": "Lawnfield House",
+		"imagePath": "MHA_Lawnfield+House_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1281.04,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/brent-borough/london-brent-borough/nw2/lawnfield-house/",
+		"lat": 51.5442,
+		"lon": -0.214784,
+		"pricing": {
+			"permanent": {
+				"residential": "N/A",
+				"residentialDementia": "1281.04",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "N/A",
+				"residentialDementia": "1281.04",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"65432222326": {
+		"name": "Oak Manor Care Home",
+		"imagePath": "MHA_Oak+Manor_001.jpeg",
+		"location": "Shefford",
+		"cqcRating": "Good",
+		"pricesFrom": 1074.24,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Bedfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/bedfordshire/central-bedfordshire-area/shefford/sg17/oak-manor/",
+		"lat": 52.032143,
+		"lon": -0.33012947,
+		"pricing": {
+			"permanent": {
+				"residential": "1074.24",
+				"residentialDementia": "1106.37",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1074.24",
+				"residentialDementia": "1106.37",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"44500": {
+		"name": "Queen's Court",
+		"imagePath": "MHA_Queens+Court_001.jpeg",
+		"location": "Cambridge",
+		"cqcRating": "Good",
+		"pricesFrom": 943.29,
+		"greenerChoice": true,
+		"region": "East of England",
+		"county": "Cambridgeshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/cambridgeshire/east-cambridgeshire-area/cambridge-east-cambridgeshire-area/cb25/queens-court/",
+		"lat": 52.2217,
+		"lon": 0.261873,
+		"pricing": {
+			"permanent": {
+				"residential": "943.29",
+				"residentialDementia": "1005.6",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "943.29",
+				"residentialDementia": "1005.6",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"16201": {
+		"name": "Richmond",
+		"imagePath": "MHA_Richmond_001.jpeg",
+		"location": "Bexhill-on-Sea",
+		"cqcRating": "Requires Improvement",
+		"pricesFrom": 847.1,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "East Sussex",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/east-sussex/rother-area/bexhill-on-sea-rother-area/tn39-bexhill-on-sea-rother-area/richmond/",
+		"lat": 50.8451,
+		"lon": 0.453139,
+		"pricing": {
+			"permanent": {
+				"residential": "847.1",
+				"residentialDementia": "1016.53",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "847.1",
+				"residentialDementia": "1016.53",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"23101": {
+		"name": "Riverview Lodge",
+		"imagePath": "MHA_Riverview+Lodge_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1121.46,
+		"greenerChoice": false,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/brent-borough/london-brent-borough/nw9/riverview-lodge/",
+		"lat": 51.5682,
+		"lon": -0.258877,
+		"pricing": {
+			"permanent": {
+				"residential": "1121.46",
+				"residentialDementia": "1189.23",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1121.46",
+				"residentialDementia": "1189.23",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"9535": {
+		"name": "Ryelands",
+		"imagePath": "MHA_Ryelands_001.jpeg",
+		"location": "Wallington",
+		"cqcRating": "Good",
+		"pricesFrom": 1144.41,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/sutton-borough/wallington/sm6/ryelands/",
+		"lat": 51.3584,
+		"lon": -0.153029,
+		"pricing": {
+			"permanent": {
+				"residential": "1144.41",
+				"residentialDementia": "1360.84",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1144.41",
+				"residentialDementia": "1360.84",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"54337": {
+		"name": "The Homestead",
+		"imagePath": "MHA_The+Homestead_001.jpeg",
+		"location": "Carterton",
+		"cqcRating": "Good",
+		"pricesFrom": 1227.6,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Oxfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/oxfordshire/west-oxfordshire-area/carterton/ox18/the-homestead/",
+		"lat": 51.7721,
+		"lon": -1.59426,
+		"pricing": {
+			"permanent": {
+				"residential": "1227.6",
+				"residentialDementia": "1294.92",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1227.6",
+				"residentialDementia": "1294.92",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"18281": {
+		"name": "The Meadow",
+		"imagePath": "MHA_The+Meadow_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 1191.41,
+		"greenerChoice": false,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/oxfordshire/cherwell-area/kidlington/lincroft-meadow/",
+		"lat": 51.5931,
+		"lon": -0.14615,
+		"pricing": {
+			"permanent": {
+				"residential": "1191.41",
+				"residentialDementia": "1240.61",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1191.41",
+				"residentialDementia": "1240.61",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"15981": {
+		"name": "Trembaths",
+		"imagePath": "MHA_Trembaths_001.jpeg",
+		"location": "Letchworth Garden City",
+		"cqcRating": "Good",
+		"pricesFrom": 938.94,
+		"greenerChoice": false,
+		"region": "East of England",
+		"county": "Hertfordshire",
+		"listingUrl": "https://lottie.org/care-home/england/east-of-england/hertfordshire/north-hertfordshire-area/letchworth-garden-city/sg6/trembaths/",
+		"lat": 51.9911,
+		"lon": -0.20966,
+		"pricing": {
+			"permanent": {
+				"residential": "938.94",
+				"residentialDementia": "1171.99",
+				"nursing": "1340.86",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "938.94",
+				"residentialDementia": "1171.99",
+				"nursing": "1340.86",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"21359": {
+		"name": "Westbury Grange",
+		"imagePath": "MHA_Westbury+Grange_001.jpeg",
+		"location": "Newport Pagnell",
+		"cqcRating": "Good",
+		"pricesFrom": 1126.92,
+		"greenerChoice": true,
+		"region": "South East England",
+		"county": "Buckinghamshire",
+		"listingUrl": "https://lottie.org/care-home/england/south-east-england/buckinghamshire/milton-keynes-area/newport-pagnell/mk16/westbury-grange/",
+		"lat": 52.0868,
+		"lon": -0.737119,
+		"pricing": {
+			"permanent": {
+				"residential": "1126.92",
+				"residentialDementia": "1301.81",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "1126.92",
+				"residentialDementia": "1301.81",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	},
+	"41156": {
+		"name": "Willesden Court Nursing Home",
+		"imagePath": "MHA_Willesden+Court_001.jpeg",
+		"location": "London",
+		"cqcRating": "Good",
+		"pricesFrom": 924.72,
+		"greenerChoice": true,
+		"region": "London",
+		"county": "London",
+		"listingUrl": "https://lottie.org/care-home/england/london/london-london/brent-borough/london-brent-borough/nw10/willesden-court/",
+		"lat": 51.548,
+		"lon": -0.251326,
+		"pricing": {
+			"permanent": {
+				"residential": "924.72",
+				"residentialDementia": "981.55",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			},
+			"respite": {
+				"residential": "924.72",
+				"residentialDementia": "981.55",
+				"nursing": "N/A",
+				"nursingDementia": "N/A"
+			}
+		}
+	}
+}

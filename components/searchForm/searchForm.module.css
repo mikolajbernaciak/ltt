@@ -1,0 +1,131 @@
+.searchCard {
+	border: 1px solid black;
+	border-radius: 1rem;
+	background-color: white;
+	position: relative;
+	margin-top: -1rem;
+	transform: translateY(50%);
+	z-index: 1;
+}
+
+.searchForm {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 1.25rem;
+}
+
+.searchFormLabel {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 0.9rem;
+	font-weight: 800;
+	text-align: start;
+}
+
+.locationInput {
+	display: flex;
+	flex-direction: column;
+	padding: 0 1rem;
+	margin: 0 1rem;
+	width: 275px;
+}
+
+.locationInput input {
+	border: none;
+	padding: 0;
+	font-size: 1rem;
+	padding: 0.5rem 0;
+}
+
+.locationInput input:focus {
+	outline: none;
+}
+
+.careInput {
+	display: flex;
+	flex-direction: column;
+	padding: 0 1rem;
+	margin: 0 1rem;
+	position: relative;
+	width: 325px;
+	border-left: 2px solid #ccc;
+}
+
+.searchButtonContainer {
+	padding: 0 1rem;
+	border-left: 2px solid #ccc;
+	padding: 1rem 1rem;
+}
+
+.searchButton {
+	background-color: black;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 0.9rem;
+	padding: 1rem 2rem;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.dropdown {
+	position: relative;
+	text-align: start;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 1rem;
+	padding: 0.5rem 0;
+	cursor: pointer;
+	text-transform: capitalize;
+	font-weight: 400;
+}
+
+.dropdownChevron {
+	transition: all ease-in-out 250ms;
+}
+
+.dropdownChevronRotate {
+	transform: rotate(180deg);
+}
+
+.expandedDropdown {
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	background: white;
+	z-index: 2;
+	width: max-content;
+	transform: translateX(-50%);
+
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	box-shadow: 0 10px 10px #ccc;
+}
+
+.dropdownFlexCol {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.dropDownHeading {
+	text-align: start;
+	padding: 0.1rem 0.75rem;
+	margin: 1rem 0 0.5rem 0;
+	font-weight: 500;
+}
+
+.choice {
+	text-align: start;
+	padding: 0.1rem 0.75rem;
+}
+
+.doneButton {
+	background-color: black;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	padding: 0.25rem 0.5rem;
+	margin: 1rem auto;
+	border-radius: 4px;
+	border: none;
+}
