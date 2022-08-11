@@ -13,6 +13,7 @@ import styles from '../../styles/Serach.module.css';
 const containerStyle = {
 	width: '500px',
 	height: '300px',
+	position: 'sticky',
 };
 
 const Search: NextPage = () => {
@@ -47,7 +48,7 @@ const Search: NextPage = () => {
 
 	const { isLoaded } = useJsApiLoader({
 		id: 'google-map-script',
-		googleMapsApiKey: 'APIKEYGOESHERE',
+		googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY!,
 	});
 
 	useEffect(() => {
@@ -94,7 +95,7 @@ const Search: NextPage = () => {
 						<div className={styles.mapContainer}>
 							{isLoaded ? (
 								<GoogleMap
-									mapContainerStyle={containerStyle}
+									mapContainerClassName={styles.map}
 									center={center}
 									zoom={7}
 								>

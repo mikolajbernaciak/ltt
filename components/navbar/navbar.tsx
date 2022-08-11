@@ -32,8 +32,8 @@ const Navbar: React.FC<INavbar> = () => {
 			<nav>
 				<div className={styles.navbar}>
 					<div className={styles.navbarLeft}>
-						<Link href="/" className={styles.navbarLogo}>
-							<span>
+						<Link href="/">
+							<span className={styles.navbarLogo}>
 								m<span className={styles.logoI}>i</span>kkie
 							</span>
 						</Link>

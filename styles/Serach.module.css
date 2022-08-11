@@ -16,6 +16,8 @@
 .searchResultsContainer {
 	display: flex;
 	flex-direction: row;
+	position: relative;
+	gap: 1rem;
 }
 
 .searchResults {
@@ -39,4 +41,17 @@
 
 .countDisplay {
 	margin-bottom: 1rem;
+}
+
+.mapContainer {
+	position: sticky;
+	height: 100%;
+	display: flex;
+	top: 0;
+	width: 42%;
+}
+
+.map {
+	width: 500px;
+	height: 300px;
 }
