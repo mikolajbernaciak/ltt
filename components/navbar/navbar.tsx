@@ -9,7 +9,7 @@ export interface INavbar {}
 const Navbar: React.FC<INavbar> = () => {
 	let showSearchBox: boolean = false;
 	let searchJson: ISearchRequestQuery;
-	let location: string;
+	let location: string | undefined = undefined;
 	if (typeof window !== 'undefined') {
 		showSearchBox = window.location.pathname === '/search';
 

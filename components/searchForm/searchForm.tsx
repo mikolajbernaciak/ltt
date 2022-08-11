@@ -99,6 +99,7 @@ const SearchForm: React.FC<ISearchForm> = () => {
 							{locationOptions.map((x) => {
 								return (
 									<div
+										key={`location_${x}`}
 										className={styles.locationOption}
 										onClick={() => onSelectLocation(x)}
 									>
