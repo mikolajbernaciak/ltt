@@ -12,6 +12,7 @@ const SearchForm: React.FC<ISearchForm> = () => {
 	const [selectedCare, setSelectedCare] = useState<string[]>([]);
 	const [showDropdown, setShowDropdown] = useState<boolean>(false);
 	const [locationText, setLocationText] = useState<string>('');
+	const [locationOptions, setLocationOptions] = useState<string[]>([]);
 
 	const getDropdownText = useMemo((): string => {
 		if (selectedCare.length > 1) {
@@ -36,6 +37,16 @@ const SearchForm: React.FC<ISearchForm> = () => {
 
 	const onTextChange = (e: React.FormEvent<HTMLInputElement>) => {
 		const target = e.target as HTMLInputElement;
+
+		if (!target.value || target.value === '') {
+			setLocationOptions([]);
+		} else {
+			const possibleLocations = locationData.filter((x) =>
+				x.location.toLowerCase().startsWith(target.value.toLowerCase())
+			);
+			setLocationOptions(possibleLocations.map((x) => x.location).slice(0, 5));
+		}
+
 		setLocationText(target.value);
 	};
 
@@ -61,6 +72,11 @@ const SearchForm: React.FC<ISearchForm> = () => {
 		}
 	};
 
+	const onSelectLocation = (location: string) => {
+		setLocationText(location);
+		setLocationOptions([]);
+	};
+
 	return (
 		<div className={styles.searchCard}>
 			<form className={styles.searchForm} action="">
@@ -68,15 +84,30 @@ const SearchForm: React.FC<ISearchForm> = () => {
 					<label className={styles.searchFormLabel} htmlFor="location">
 						Location
 					</label>
-					<input
-						className={styles.searchFormInput}
-						type="text"
-						id="location"
-						name="location"
-						placeholder="Search home or town"
-						onChange={onTextChange}
-						value={locationText}
-					/>
+					<div className={styles.searchFormInputContainer}>
+						<input
+							className={styles.searchFormInput}
+							type="text"
+							id="location"
+							name="location"
+							placeholder="Search home or town"
+							onChange={onTextChange}
+							value={locationText}
+							autoComplete="off"
+						/>
+						<div className={styles.locationOptionsContainer}>
+							{locationOptions.map((x) => {
+								return (
+									<div
+										className={styles.locationOption}
+										onClick={() => onSelectLocation(x)}
+									>
+										{x}
+									</div>
+								);
+							})}
+						</div>
+					</div>
 				</div>
 				<div className={`${styles.careInput} noselect`}>
 					<label className={styles.searchFormLabel}>Care required</label>

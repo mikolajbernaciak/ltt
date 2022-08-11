@@ -1,31 +1,25 @@
 import { faMagnifyingGlass, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Link from 'next/link';
-import { useEffect, useState } from 'react';
 import { ISearchRequestQuery } from '../../lib/interfaces';
 import styles from './navbar.module.css';
 
 export interface INavbar {}
 
 const Navbar: React.FC<INavbar> = () => {
-	const [location, setLocation] = useState<string>();
-
 	let showSearchBox: boolean = false;
+	let searchJson: ISearchRequestQuery;
+	let location: string;
 	if (typeof window !== 'undefined') {
 		showSearchBox = window.location.pathname === '/search';
-	}
 
-	useEffect(() => {
-		let searchJson: ISearchRequestQuery;
-		if (typeof window !== 'undefined') {
-			const search = localStorage.getItem('mikkie-search');
+		const search = localStorage.getItem('mikkie-search');
 
-			if (search) {
-				searchJson = JSON.parse(search!) as ISearchRequestQuery;
-				setLocation(searchJson.location);
-			}
+		if (search) {
+			searchJson = JSON.parse(search!) as ISearchRequestQuery;
+			location = searchJson.location;
 		}
-	}, []);
+	}
 
 	return (
 		<div className={styles.navbarContainer}>

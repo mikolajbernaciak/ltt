@@ -30,15 +30,44 @@
 	width: 275px;
 }
 
-.locationInput input {
-	border: none;
-	padding: 0;
-	font-size: 1rem;
+.searchFormInputContainer {
+	position: relative;
 	padding: 0.5rem 0;
+	font-size: 1rem;
 }
 
-.locationInput input:focus {
+.locationOption {
+	padding: 0.25rem 0;
+	cursor: pointer;
+	transition: all ease-in-out 150ms;
+}
+
+.locationOption:hover {
+	background-color: #eee;
+}
+
+.searchFormInput {
+	border: none;
+	padding: 0;
+
+	width: 100%;
+}
+
+.searchFormInput:focus {
 	outline: none;
+}
+
+.locationOptionsContainer {
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	background: white;
+	z-index: 2;
+	transform: translateX(-50%);
+	width: 275px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	box-shadow: 0 10px 10px #ccc;
 }
 
 .careInput {

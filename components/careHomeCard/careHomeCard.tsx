@@ -10,7 +10,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import { ICareHome, ILocations } from '../../lib/interfaces';
 import locationData from '../../locations.json';
-import getDistanceFromCoordinates from '../../utils/getDistanceFromCoordinates';
 import styles from './careHomeCard.module.css';
 
 export interface ICareHomeCard {
@@ -101,7 +100,8 @@ const CareHomeCard: React.FC<ICareHomeCard> = ({
 				<div className={styles.infoItem}>
 					<FontAwesomeIcon icon={faLocationPin} color={'#98fb98'} />
 					<span className={styles.infoItemText}>
-						<strong>{distanceFromSearch.toFixed(1)} miles</strong> from ...
+						<strong>{distanceFromSearch.toFixed(1)} miles</strong> from{' '}
+						{searchLocation}
 					</span>
 				</div>
 			</div>
@@ -123,3 +123,28 @@ const CareHomeCard: React.FC<ICareHomeCard> = ({
 };
 
 export default CareHomeCard;
+
+function getDistanceFromCoordinates(
+	lat1: number,
+	lon1: number,
+	lat2: number,
+	lon2: number
+): number {
+	var R = 6371; // km
+	var dLat = toRad(lat2 - lat1);
+	var dLon = toRad(lon2 - lon1);
+	var lat1 = toRad(lat1);
+	var lat2 = toRad(lat2);
+
+	var a =
+		Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+		Math.sin(dLon / 2) * Math.sin(dLon / 2) * Math.cos(lat1) * Math.cos(lat2);
+	var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+	var d = R * c;
+	return d;
+}
+
+// Converts numeric degrees to radians
+function toRad(value: number) {
+	return (value * Math.PI) / 180;
+}
